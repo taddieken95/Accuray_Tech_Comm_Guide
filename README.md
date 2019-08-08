@@ -1,2 +1,2 @@
-# Accuray_Tech_Comm_Guide
+# Accuray Tech Comm Guide
 A Comprehensive Guide to Technical Documentation at Accuray, INC.
