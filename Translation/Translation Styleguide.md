@@ -61,8 +61,8 @@ Use the following words and symbols to signal important information:
 
 | Icon     | Word        | Description 
 | ------------- |:-------------:| -----:|
-| ![alt text](https://icon-library.net/images/warning-icon/warning-icon-5.jpg "Warning Icon")| WARNING | Improper use will likely affect safety.
-| ![alt text](https://image.flaticon.com/icons/svg/66/66872.svg "Caution Icon")| CAUTION     |   Improper use will result in machine damage.
+| <img src="https://icon-library.net/images/warning-icon/warning-icon-5.jpg" alt="Warning Icon" width="100"/>| **WARNING** | Improper use will likely affect safety.
+| <img src="https://image.flaticon.com/icons/svg/66/66872.svg" alt="Caution Icon" width="100"/>| **CAUTION**     |   Improper use will result in machine damage.
 
 ## Acronyms
 If you use an acronym to represent a phrase that you plan to include multiple times in your document, you should first write the complete phrase followed by the acronym in parenthesis; you can then refer to the acronym throughout the rest of your document. For example, if you plan to write about stereotactic body radiation therapy, include the full phrase followed by (SBRT) before you begin using the acronym.
