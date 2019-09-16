@@ -23,4 +23,16 @@ First thing's first, in order to efficiently receive SME requests, we must set u
 
 The TT ECR Window should now be configured and appear as shown in the figure below.
 
+![alt text](https://github.com/taddieken95/Accuray_Tech_Comm_Guide/blob/master/img/TT%20ECRs.png "TT ECR Example")
+
 ### Configure Agile Interface for CyberKnife Document Requests
+
+Next, you will also need to create a window for CyberKnife document requests. The process for creating a CK ECR window should be nearly identical to the previous section, with the following differences:
+
+* In Step 3, click the **Configure** button in the center of the top-right table.
+* In Step 4, assign the **Table Name** to *CK ECRs*
+* In Step 12, enter **CyberKnife** in the **Value** search bar.
+
+The CK ECR Window should now be configured and appear as shown in the figure below.
+
+![alt text](https://github.com/taddieken95/Accuray_Tech_Comm_Guide/blob/master/img/TT%20ECRs.png "TT ECR Example")
