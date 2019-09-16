@@ -36,3 +36,5 @@ Next, you will also need to create a window for CyberKnife document requests. Th
 The CK ECR Window should now be configured and appear as shown in the figure below.
 
 ![alt text](https://github.com/taddieken95/Accuray_Tech_Comm_Guide/blob/master/img/CK%20ECRs.png "CK ECR Example")
+
+Your ECR dashboard is now set up and ready to use. Document requests will appear via ECR in each respective window.
