@@ -30,3 +30,11 @@ If the SME has not created an ECR, do one of the following:
 
 ### Creating an ECR
 
+In order to create your own ECR, do the following:
+
+1. Go to the **Create New** dropdown menu at the top of the Agile screen.
+2. Go to **Changes** and then click **Change Requests**.
+3. Populate the **Description of Change**, **Reason For Change**, and **Product Line(s)** tabs. Then, click **Save** at the bottom-right corner of the window.
+4. Once the ECR is created, attach all affected documents / items to the **Affected Items** tab.
+5. If an ECO has been created, establish a relationship in the **Relationship** tab. Create a rule so that the ECR automatically closes when the ECO is submitted.
+6. Attach all redlines in the **Attachments** tab of the ECR.
