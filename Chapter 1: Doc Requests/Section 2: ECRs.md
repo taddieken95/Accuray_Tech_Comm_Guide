@@ -38,3 +38,4 @@ In order to create your own ECR, do the following:
 4. Once the ECR is created, attach all affected documents / items to the **Affected Items** tab.
 5. If an ECO has been created, establish a relationship in the **Relationship** tab. Create a rule so that the ECR automatically closes when the ECO is submitted.
 6. Attach all redlines in the **Attachments** tab of the ECR.
+7. If this document is not an initial release, populate FRM 033017 and attach to **Attachments** tab of ECR. See (insert link later) for protocol on a Rev. A release of a document.
