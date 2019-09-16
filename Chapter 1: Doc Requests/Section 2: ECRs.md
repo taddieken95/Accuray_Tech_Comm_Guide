@@ -18,3 +18,15 @@ Similar to all variations of ECRs, a documentation request ECR will provide the 
 For the specifics, you should go to the **Attachments** tab inside the ECR. Here, you should find a PDF / Word document known as a **Redline**. A **Redline** will specifically layout all of the changes that an SME desires for the documents. Be sure to follow these redlines closely, as Doc Services will closely analyze the changes made to your document and verify that they match the redlines attached.
 
 > **NOTE:** If additional changes are created inside the document, notify the corresponding SME so that they may update the redlines accordingly. Failure to do so may result in a rejected ECO.
+
+## What if an SME doesn't create an ECR?
+
+An SME may choose to e-mail or physically hand you redlines, though an ECR will still need to be created, as they are required by Doc Services in order for the ECO to be approved. 
+
+If the SME has not created an ECR, do one of the following:
+
+* Contact the SME and request the generate an ECR ***or***
+* Create your own ECR and attach it to the SME's ECO
+
+### Creating an ECR
+
