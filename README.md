@@ -1,4 +1,4 @@
-# Accuray Tech Comm Guide
+# A Guide to Technical Communication at Accuray
 A comprehensive guide to technical documentation at *Accuray Incorporated*.
 
 ## Table of Contents
