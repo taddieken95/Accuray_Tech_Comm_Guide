@@ -37,6 +37,8 @@ The CK ECR Window should now be configured and appear as shown in the figure bel
 
 ![alt text](https://github.com/taddieken95/Accuray_Tech_Comm_Guide/blob/master/img/CK%20ECRs.png "CK ECR Example")
 
-Your ECR dashboard is now set up and ready to use. Document requests will appear via ECR in each respective window. To learn more on ECR document request protocol, continue to the [next section](https://github.com/taddieken95/Accuray_Tech_Comm_Guide/blob/master/Chapter%201:%20Doc%20Requests/Section%202:%20ECRs.md). 
+Your ECR dashboard is now set up and ready to use. Document requests will appear via ECR in each respective window. 
 
-Click [here](https://github.com/taddieken95/Accuray_Tech_Comm_Guide/tree/master/Chapter%201:%20Doc%20Requests) to return to this chapter's overview or [here](https://github.com/taddieken95/Accuray_Tech_Comm_Guide) to return to the entire guide's overview.
+> To learn more on ECR document request protocol, continue to the [next section](https://github.com/taddieken95/Accuray_Tech_Comm_Guide/blob/master/Chapter%201:%20Doc%20Requests/Section%202:%20ECRs.md). 
+
+> Click [here](https://github.com/taddieken95/Accuray_Tech_Comm_Guide/tree/master/Chapter%201:%20Doc%20Requests) to return to this chapter's overview or [here](https://github.com/taddieken95/Accuray_Tech_Comm_Guide) to return to the entire guide's overview.
