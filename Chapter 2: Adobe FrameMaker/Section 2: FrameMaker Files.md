@@ -8,9 +8,9 @@ Accuray's manufacturing work instructions are generated via FrameMaker books. A 
 
 In the context of manufacturing work instructions, a standard FrameMaker book will contain three (3) files:
 
-* Title Page
-* Table of Contents
-* Content
+* **Title Page**
+* **Table of Contents**
+* **Content**
 
 ### Title Page
 
@@ -35,3 +35,5 @@ The file name for the **Title Page** will be *(insert document number)_TitlePage
 The second of the three (3) files is the **Table of Contents**. The **Table of Contents** (also referred to as the **TOC**) is automatically linked to any primary headings throughout the document. See [this article] for information regarding generating / troubleshooting FrameMaker TOCs. 
 
 The file name for the **Table of Contents** will be *(insert document number)_TOC.fm* (*ex: **T-MFG-R2000_TOC.fm***)
+
+### Content
