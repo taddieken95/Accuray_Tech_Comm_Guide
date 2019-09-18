@@ -18,4 +18,4 @@ One last reason that FrameMaker is particularly strong is its ability to establi
 
 > Click [here](https://github.com/taddieken95/Accuray_Tech_Comm_Guide/blob/master/Chapter%202:%20Adobe%20FrameMaker/Section%202:%20FrameMaker%20Files.md) to continue on to the next section of this chapter.
 
-> 
+> Click [here](https://github.com/taddieken95/Accuray_Tech_Comm_Guide/tree/master/Chapter%202:%20Adobe%20FrameMaker) to return to the Chapter 2 overview, or click [here](https://github.com/taddieken95/Accuray_Tech_Comm_Guide) to return to the overview for the entire guide.
