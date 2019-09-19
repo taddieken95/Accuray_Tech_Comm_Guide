@@ -28,7 +28,7 @@ As mentioned above, the first of the three (3) files is the Title Page. See the 
 |**Materials Required** (optional)|A separate (optional) table below the **Revision Table** that lists the tools and materials involved in performing a work instruction.| 
 |**Reference Work Instructions** (optional)|A separate (optional) table below the **Revision Table** (and the **Reference Table**, if present) that lists any corresponding work instructions or SOPs.|
 
-Upon completion, a finished Title Page should appear as shown in the image below.
+Upon completion, a finished **Title Page** should appear as shown in the image below.
 
 ![alt text](https://github.com/taddieken95/Accuray_Tech_Comm_Guide/blob/master/img/Title%20Page%20Example.png "Title Page Example")
 
@@ -36,7 +36,18 @@ The file name for the **Title Page** will be *(insert document number)_TitlePage
 
 ### Table of Contents
 
-The second of the three (3) files is the **Table of Contents**. The **Table of Contents** (also referred to as the **TOC**) is automatically linked to any primary headings throughout the document. See [this article] for information regarding generating / troubleshooting FrameMaker TOCs. 
+The second of the three (3) files is the **Table of Contents**. The **Table of Contents** (also referred to as the **TOC**) is automatically linked to any primary headings throughout the document. See [this article] for information regarding generating / troubleshooting FrameMaker TOCs. A completed **Table of Contents** should contain the following attributes:
+
+* **Document Title**
+* **Work Instruction Number**
+* **Revision Level**
+* **Heading Title** (for each section in the **Contents** file of the FrameMaker book)
+* **Section Number** (for each section)
+* **Page Number** (for each section)
+
+Upon completion, a finished **Table of Contents** page should appear as shown in the image below.
+
+![alt text](https://github.com/taddieken95/Accuray_Tech_Comm_Guide/blob/master/img/TOC%20Example.png "TOC Example")
 
 The file name for the **Table of Contents** will be *(insert document number)_TOC.fm* (*ex: **T-MFG-R2000_TOC.fm***)
 
