@@ -75,5 +75,13 @@ The final element of FrameMaker files that is important to take note of is the *
 
 ## Finalized List of Files
 
-Once
-* **
+* **File Book**
+* **File Book Backup**
+* **Title Page**
+* **Title Page Backup**
+* **Table of Contents
+* **Table of Contents Backup**
+* **Content**
+* **Content Backup**
+
+See the image below for what the finalized FrameMaker file folder's contents should consist of.
