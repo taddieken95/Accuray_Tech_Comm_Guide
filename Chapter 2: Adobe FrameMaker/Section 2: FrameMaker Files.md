@@ -67,7 +67,7 @@ The **Content** file should contain the following:
 
 Due to the proprietary nature of procedural steps, this guide is not able to showcase an example of a **Content** file, however, you should find following the steps in [this section] will produce the necessary result in relation to Accuray's Manufacturing Tech Comm standards (e.g. do not fret about proper formatting, as the FrameMaker template provided will take care of that for you, *another one of the many perks of using FrameMaker instead of Word!*)
 
-The file name for the **Content** section will be *(insert document number)_Content.fm* (*ex: **T-MFG-R2000_Content.fm**)
+The file name for the **Content** section will be *(insert document number)_Content.fm* (*ex: **T-MFG-R2000_Content.fm***)
 
 ### Backup Files
 
