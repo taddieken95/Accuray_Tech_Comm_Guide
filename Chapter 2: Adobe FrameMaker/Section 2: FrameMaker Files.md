@@ -28,6 +28,10 @@ As mentioned above, the first of the three (3) files is the Title Page. See the 
 |**Materials Required** (optional)|A separate (optional) table below the **Revision Table** that lists the tools and materials involved in performing a work instruction.| 
 |**Reference Work Instructions** (optional)|A separate (optional) table below the **Revision Table** (and the **Reference Table**, if present) that lists any corresponding work instructions or SOPs.|
 
+Upon completion, a finished Title Page should appear as shown in the image below.
+
+![alt text](https://github.com/taddieken95/Accuray_Tech_Comm_Guide/blob/master/img/Title%20Page%20Example.png "Title Page Example")
+
 The file name for the **Title Page** will be *(insert document number)_TitlePage.fm* (*ex: **T-MFG-R2000_TitlePage.fm***)
 
 ### Table of Contents
