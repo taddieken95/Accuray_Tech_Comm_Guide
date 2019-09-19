@@ -79,9 +79,12 @@ The final element of FrameMaker files that is important to take note of is the *
 * **File Book Backup**
 * **Title Page**
 * **Title Page Backup**
-* **Table of Contents
+* **Table of Contents**
 * **Table of Contents Backup**
 * **Content**
 * **Content Backup**
 
 See the image below for what the finalized FrameMaker file folder's contents should consist of.
+
+![alt text](https://github.com/taddieken95/Accuray_Tech_Comm_Guide/blob/master/img/FrameMaker%20File%20Example.png "File Contents")
+
