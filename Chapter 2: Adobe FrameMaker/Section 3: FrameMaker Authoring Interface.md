@@ -13,4 +13,17 @@ To fully open a FrameMaker file, do the following:
 
 ![alt text](https://github.com/taddieken95/Accuray_Tech_Comm_Guide/blob/master/img/FrameMaker%20Interface%20Example.png "FrameMaker Interface Example")
 
+## Authoring Options - Paragraph Catalog
+
+A floating side panel featuring the **Paragraph Catalog** should be present inside the FrameMaker interface. If this is not the case, perform the following:
+
+1. Go to the **View** dropdown at the top of the screen.
+2. Go to **Pods** then select **Paragraph Catalog**.
+3. The sidepanel should now appear. It is likely that additional pods (such as **Variables**, **Character Designer**, and **Cross References**) will appear as well. Ignore these tabs for now and go to the **Paragraph Catalog** tab.
+
+The final result should appear as shown **below**:
+
+![alt text](https://github.com/taddieken95/Accuray_Tech_Comm_Guide/blob/master/img/Paragraph%20Catalog%20Tab.png "Paragraph Catalog Tab")
+
+These options listed in the **Paragraph Catalog** pod are the different authoring text styles that come with the Accuray Manufacturing FrameMaker template. These, of course, can be stylistically modified through the **Character Designer** tab, but for the majority of Work Instructions, this list should contain all of the needed elements to producing a robust work instruction.
 
