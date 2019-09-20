@@ -25,5 +25,5 @@ The final result should appear as shown **below**:
 
 ![alt text](https://github.com/taddieken95/Accuray_Tech_Comm_Guide/blob/master/img/Paragraph%20Catalog%20Tab.png "Paragraph Catalog Tab")
 
-These options listed in the **Paragraph Catalog** pod are the different authoring text styles that come with the Accuray Manufacturing FrameMaker template. These, of course, can be stylistically modified through the **Character Designer** tab, but for the majority of Work Instructions, this list should contain all of the needed elements to producing a robust work instruction.
+These options listed in the **Paragraph Catalog** pod are the different authoring text styles that come with the Accuray Manufacturing FrameMaker template. These, of course, can be stylistically modified through the **Character Designer** tab, but for the majority of work instructions, this list should contain all of the needed elements to producing robust documentation.
 
