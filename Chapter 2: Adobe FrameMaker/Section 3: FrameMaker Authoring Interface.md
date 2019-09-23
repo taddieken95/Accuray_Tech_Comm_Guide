@@ -31,5 +31,13 @@ These options listed in the **Paragraph Catalog** pod are the different authorin
 
 The following table will provide an explanation for different features of the **Paragraph Catalog**.
 
-| Paragraph Catalog Feature | Description |
-|---------------------------|-------------|
+|Paragraph Feature | Description | Ideal Usage|
+|---------------------------|-------------|------------|
+|**Heading 1**| Creates a section heading along with an ordered numerical value (1.0, 2.0, etc.). This will be automatically linked to the **Table of Contents** file.| Use to provide a title for each overall section. Each FrameMaker work instruction should have a minimum of one (1) **Heading 1**.|
+|**Heading 2**| Creates a heading for a subsection. Will have a numeric value in the tenth decimal place (e.g. 1.1, 1.2, etc.) Barring special circumstances, subsection headings will not be featured in a **Table of Contents**. | Use to provide a title for a subsection. Subsections should likely be created in place of sections if ordered numerical list surpasses ten (10) steps.|
+|**Heading 3**| Creates a subsection for a subsection. Will have a numeric value in the hundredth decimal place (e.g. 1.1.1, 1.1.2, etc.)| Use to provide a title for a subsection of a subsection. It is recommended to create one if content within a subsection surpasses ten (10) steps.|
+|**Body Text**| Think of this authoring feature as your "standard." **Body Text** authoring allows the user to create unordered blocks of text.|  **Body Text** is often used in instances where step-by-step instructions are not required|
+|**Step 1**| Initializes an ordered list. Further steps can be created by pressing **Enter** after Step 1 has been generated.| Use at the beginning of a section / subsection. Ordered steps will *NOT* automatically reset at 1 with each section. It must be manually entered.|
+|**Steps**| Continues an ordered list.| As previously mentioned, ordered steps should be automatically entered after **Step 1** by pressing **Enter**.|
+|**StepNoNum**| Creates an opportunity to produce text at the same indentation level of an ordered **Step** without continuing the ordering level| **StepNoNum** is best used with trying to separate two (2) or more sentences in a **Step** into separate lines. In this case, **StepNoNum** would be used on the second line, so that it does not separate this line into an additional **Step**.|
+
