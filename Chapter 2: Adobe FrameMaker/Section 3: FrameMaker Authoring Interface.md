@@ -27,3 +27,9 @@ The final result should appear as shown **below**:
 
 These options listed in the **Paragraph Catalog** pod are the different authoring text styles that come with the Accuray Manufacturing FrameMaker template. These, of course, can be stylistically modified through the **Character Designer** tab, but for the majority of work instructions, this list should contain all of the needed elements to producing robust documentation.
 
+## Paragraph Catalog Functionality
+
+The following table will provide an explanation for different features of the **Paragraph Catalog**.
+
+| Paragraph Catalog Feature | Description |
+|---------------------------|-------------|
