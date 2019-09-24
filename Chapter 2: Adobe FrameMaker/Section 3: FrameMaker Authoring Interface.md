@@ -40,4 +40,6 @@ The following table will provide an explanation for different features of the **
 |**Step 1**| Initializes an ordered list. Further steps can be created by pressing **Enter** after Step 1 has been generated.| Use at the beginning of a section / subsection. Ordered steps will *NOT* automatically reset at 1 with each section. It must be manually entered.|
 |**Steps**| Continues an ordered list.| As previously mentioned, ordered steps should be automatically entered after **Step 1** by pressing **Enter**.|
 |**StepNoNum**| Creates an opportunity to produce text at the same indentation level of an ordered **Step** without continuing the ordering level| **StepNoNum** is best used with trying to separate two (2) or more sentences in a **Step** into separate lines. In this case, **StepNoNum** would be used on the second line, so that it does not separate this line into an additional **Step**.|
-
+|**Sub Step_a**| Initializes an ordered list (level "a") within a step inside of an ordered list (substep)| Use when two (2) or more clarifying substeps are deemed necessary for a user to follow a step. |
+|**Sub Steps**| Continues an ordered sublist| Use to continue a sublist after initializing it with **Sub Step_a**|
+|**Bullet List**| Creates an unordered, bulleted list | Use for instances where further clarification on an ordered step is required. |
