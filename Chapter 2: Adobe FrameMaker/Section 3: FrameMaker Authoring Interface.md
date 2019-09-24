@@ -48,4 +48,4 @@ The following table will provide an explanation for different features of the **
 
 > To continue to the next section of this user guide, click [here](https://github.com/taddieken95/Accuray_Tech_Comm_Guide/blob/master/Chapter%202:%20Adobe%20FrameMaker/Section%204:%20Uploading%20Images%20in%20FrameMaker.md).
 
-> To return to the main overview, click [here](https://github.com/taddieken95/Accuray_Tech_Comm_Guide/blob/master/README.md)
+> Click [here](https://github.com/taddieken95/Accuray_Tech_Comm_Guide/tree/master/Chapter%202:%20Adobe%20FrameMaker) to return to the Chapter 2 overview, or click [here](https://github.com/taddieken95/Accuray_Tech_Comm_Guide) to return to the overview for the entire guide.
