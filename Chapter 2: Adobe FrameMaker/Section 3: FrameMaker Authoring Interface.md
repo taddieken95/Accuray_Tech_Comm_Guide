@@ -42,4 +42,10 @@ The following table will provide an explanation for different features of the **
 |**StepNoNum**| Creates an opportunity to produce text at the same indentation level of an ordered **Step** without continuing the ordering level| **StepNoNum** is best used with trying to separate two (2) or more sentences in a **Step** into separate lines. In this case, **StepNoNum** would be used on the second line, so that it does not separate this line into an additional **Step**.|
 |**Sub Step_a**| Initializes an ordered list (level "a") within a step inside of an ordered list (substep)| Use when two (2) or more clarifying substeps are deemed necessary for a user to follow a step. |
 |**Sub Steps**| Continues an ordered sublist| Use to continue a sublist after initializing it with **Sub Step_a**|
-|**Bullet List**| Creates an unordered, bulleted list | Use for instances where further clarification on an ordered step is required. |
+|**Bullet List**| Creates an unordered, bulleted list | Use for instances where further clarification is required, but order is not of importance. ***OR*** Use in place of steps when only an unordered list is deemed neccessary (such as an **Tools Required** list.|
+|**Sq. Bullet List**| Use as an unordered sublist beneath a **Bullet List** or a **Sub Step**| Use when further clarification is required for an ordered sublist or an unordered list.|
+|**FigureCaption**| Automatically creates a numerically ordered **Figure Number** along with space to create a descriptive caption of the **Figure** shown above | Use after every **Figure** added to the document. Captions are not required by FrameMaker but best practices would suggest providing a descriptive phrase to each image added. See [this section]() for more information on how to incorporate images into a work instruction.|
+
+> To continue to the next section of this user guide, click [here]().
+
+> To return to the main overview, click [here](https://github.com/taddieken95/Accuray_Tech_Comm_Guide/blob/master/README.md)
