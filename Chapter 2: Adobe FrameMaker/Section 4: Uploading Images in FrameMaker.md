@@ -44,3 +44,15 @@ To create an **Anchored Frame**, perform the following:
 You have now successfully created an **Anchored Frame**. Next we look at importing images into an **Anchored Frame**.
 
 ### Importing Images
+
+To import an image into an **Anchored Frame**, perform the following:
+
+1. Select the **Anchored Frame** with your cursor.
+2. Go to the **Insert** dropdown menu at the top of the screen.
+3. Select **Image..**. An Alert will appear stating, *This operation doesn't have undo support, you will not be able to revert. Do you want to continue?*, select **OK**.
+4. A File Explorer window will appear. Go to the previously created images folder for this work instruction. Select the desired image and click **Insert**. The image will now be present inside the **Anchored Frame**.
+5. Adjust the image size by clicking the image and going to the **Object Properties** pod (this should be in the same window as the **Paragraph Catalog** pod). File size is adjusted in the **DPI** input section.
+
+> **NOTE:** The recommended DPI for an image is 150. However, certain images may be too large for this to function successfully, adjust DPI as needed (the larger the DPI, the higher the resolution and smaller the image).
+
+### Figure Captioning
