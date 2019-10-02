@@ -32,7 +32,7 @@ To create an **Anchored Frame**, perform the following:
 
 1. Place the cursor in the desired location within the document (ensure you are authoring within the **Body Text** style).
 2. Go to the **Insert** dropdown at the top of the screen.
-3. Click **Anchored Frame...**. A New **Anchored Frame** window should appear on your screen (see figure below).
+3. Click **Anchored Frame...**. A new **Anchored Frame** window should appear on your screen (see figure below).
 
 ![alt text](https://github.com/taddieken95/Accuray_Tech_Comm_Guide/blob/master/img/Anchored%20Frame%20Window.png "Anchored Frame Window")
 
