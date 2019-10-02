@@ -35,3 +35,12 @@ To create an **Anchored Frame**, perform the following:
 3. Click **Anchored Frame...**. A New **Anchored Frame** window should appear on your screen (see figure below).
 
 ![alt text](https://github.com/taddieken95/Accuray_Tech_Comm_Guide/blob/master/img/Anchored%20Frame%20Window.png "Anchored Frame Window")
+
+4. Ensure proper alignment is set inside the window (it is advised to have it set to **Center**).
+5. Click the **New Frame** button. An **Anchored Frame** should now appear. Adjust to desired size by dragging relevant sides to length.
+
+![alt text](https://github.com/taddieken95/Accuray_Tech_Comm_Guide/blob/master/img/Anchored%20Frame%20Example.png "Anchored Frame Example")
+
+You have now successfully created an **Anchored Frame**. Next we look at importing images into an **Anchored Frame**.
+
+### Importing Images
