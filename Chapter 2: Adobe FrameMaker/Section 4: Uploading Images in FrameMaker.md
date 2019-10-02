@@ -56,3 +56,14 @@ To import an image into an **Anchored Frame**, perform the following:
 > **NOTE:** The recommended DPI for an image is 150. However, certain images may be too large for this to function successfully, adjust DPI as needed (the larger the DPI, the higher the resolution and smaller the image).
 
 ### Figure Captioning
+
+A **Figure Caption** should be present beneath each image in an Adobe FrameMaker work instruction. **Figure Captions** allow for easy and organized cross-references, along with providing more context for the reader. To create a **Figure Caption**, perform the following:
+
+1. Place your cursor immediately below the **Anchored Frame**.
+2. Go to the **Paragraph Catalog** pod and select **FigureCaption**. A numbered **Figure Caption** will appear below your image.
+
+![alt text](https://github.com/taddieken95/Accuray_Tech_Comm_Guide/blob/master/img/Figure%20Caption%20Example.png "Figure Caption Example")
+
+3. Provide a description to further contextualize the image for the reader (it is recommended that the **Figure Caption** description and the file name of the image be the same).
+
+> **NOTE:** See [this section]() for further information on generating cross-references to **Figure Captions**
