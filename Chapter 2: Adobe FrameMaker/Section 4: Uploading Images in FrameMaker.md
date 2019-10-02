@@ -26,6 +26,12 @@ First, before an image can be imported into FrameMaker, it must be in the proper
 
 Think of an **Anchored Frame** as the "window" through which images can be viewed. It acts as both the vessel through which a file can be called into the document and as a static text box. Once an image is called in through a **Anchored Frame**, it will not be able to be dragged out of it (the image will become cropped once it surpasses the boundaries of the **Anchored Frame**.
 
-> **NOTE:** It is worth noting that there is not a limit to the number of images one can place inside a single **Anchored Frame**. Should the writer decide to include two (2) images side-by-side, they may upload both to the same **Anchored Frame** and adjust location as deemed necessary
+> **NOTE:** It is worth noting that there is not a limit to the number of images one can place inside a single **Anchored Frame**. Should the writer decide to include two (2) images side-by-side, they may upload both inside the same **Anchored Frame** and adjust location as deemed necessary
 
+To create an **Anchored Frame**, perform the following:
 
+1. Place the cursor in the desired location within the document (ensure you are authoring within the **Body Text** style).
+2. Go to the **Insert** dropdown at the top of the screen.
+3. Click **Anchored Frame...**. A New **Anchored Frame** window should appear on your screen (see figure below).
+
+![alt text](https://github.com/taddieken95/Accuray_Tech_Comm_Guide/blob/master/img/Anchored%20Frame%20Window.png "Anchored Frame Window")
