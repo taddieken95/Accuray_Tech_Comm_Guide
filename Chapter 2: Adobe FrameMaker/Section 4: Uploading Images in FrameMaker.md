@@ -66,4 +66,6 @@ A **Figure Caption** should be present beneath each image in an Adobe FrameMaker
 
 3. Provide a description to further contextualize the image for the reader (it is recommended that the **Figure Caption** description and the file name of the image be the same).
 
-> **NOTE:** See [this section]() for further information on generating cross-references to **Figure Captions**
+> **NOTE:** See [this section](https://github.com/taddieken95/Accuray_Tech_Comm_Guide/blob/master/Chapter%202:%20Adobe%20FrameMaker/Section%205:%20Creating%20Cross-References.md) for further information on generating cross-references to **Figure Captions**
+
+> **NOTE:** Click [here](https://github.com/taddieken95/Accuray_Tech_Comm_Guide/blob/master/Chapter%202:%20Adobe%20FrameMaker/READme.md) to return to the Chapter Overview.
