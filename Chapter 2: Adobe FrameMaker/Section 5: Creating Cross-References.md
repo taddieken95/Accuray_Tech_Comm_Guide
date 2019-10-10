@@ -25,4 +25,4 @@ To create a **Cross-reference**, perform the following:
 
 As mentioned previously, the **Cross-Reference** will now be updated should the linked attribute change. In order to update, click the **Update Book** button in the FrameMaker file panel.
 
-Should an attribute that a **Cross-Reference** is linked to be deleted, an error will occur when updating the book.
+Should an attribute that a **Cross-Reference** is linked to be deleted, an error will occur when updating the book. Be sure to delete any **Cross-References** attached to content being deleted.
