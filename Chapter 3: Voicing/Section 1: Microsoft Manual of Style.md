@@ -18,7 +18,7 @@ Perform the following in order to accomplish these voicing principles:
 
 * **Simpler is better.** *Everyone likes clarity and getting to the point. Break it up. Step it out. Layer. Short sentences and fragments are easier to scan and read. Prune every excess word.*
 
-* **Place yourself in the end user's shoes.** *Consider all the ways in which an audience could receive your instructions. What level of knowledge might they possess when performing this process? Ensure ALL information is provided that could be of use. **It is always easier to remove unnecessary content at a later revision than to perform a task without all the content present.***
+* **Place yourself in the End User's shoes.** *Consider all the ways in which an audience could receive your instructions. What level of knowledge might they possess when performing this process? Ensure ALL information is provided that could be of use. **It is always easier to remove unnecessary content at a later revision than to perform a task without all the content present.***
 
 ## Acronyms
 
