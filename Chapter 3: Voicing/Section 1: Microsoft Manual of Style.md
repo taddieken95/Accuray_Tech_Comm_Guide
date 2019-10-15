@@ -16,7 +16,7 @@ Perform the following in order to accomplish these voicing principles:
 
 * **Get to the point fast.** *Start with the key takeaway. Put the most important thing in the most noticeable spot. Make choices and next steps obvious. Give people just enough information to make decisions confidently. Don't get in the way.*
 
-* **Simpler is better.** *Everyone likes clarity and getting to the point. Break it up. Steup it out. Layer. Short sentences and fragments are easier to scan and read. Prune every excess word.*
+* **Simpler is better.** *Everyone likes clarity and getting to the point. Break it up. Step it out. Layer. Short sentences and fragments are easier to scan and read. Prune every excess word.*
 
 * **Place yourself in the end user's shoes.** *Consider all the ways in which an audience could receive your instructions. What level of knowledge might they possess when performing this process? Ensure ALL information is provided that could be of use. **It is always easier to remove unnecessary content at a later revision than to perform a task without all the content present.***
 
@@ -32,7 +32,7 @@ If you've spent any time at Accuray, you're probably well aware of the fact that
 
 * **Avoid acronyms in titles and headings.** Especially if this is the first time an acronym is being referred to in a document. Acronyms in titles or headings can confuse the End User.
 
-* **
+* **Avoid the possessive form.** Avoid any anthromorphisms in general in the realm of Technical Communication.
 
 * **Don't create acronyms that have not been officially established from Engineering.** It is important to remember that we are not the SME, and that acronyms we generate have the potential to confuse the End User. *Only* reference acronyms that have been recognized by Engineering.
 
