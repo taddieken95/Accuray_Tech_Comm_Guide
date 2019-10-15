@@ -22,6 +22,21 @@ Perform the following in order to accomplish these voicing principles:
 
 ## Acronyms
 
+If you've spent any time at Accuray, you're probably well aware of the fact that we use a *lot* of acronyms (see [this section]() for a comprehensive guide to acronyms at Accuray). Follow the following guidelines when referencing acronyms in documentation:
+
+* **Spell out the term for clarity.** It is best practice to type out the meaning of an acronym before solely referencing an acronym in a document.
+
+> **EXAMPLE:** *The Multi-Leaf Collimator (MLC) is a crucial aspect of dose delivery to patients. The MLC is assembled here at 1209 Deming Way.*
+
+* **Don't introduce acronyms that are only used once.** If an acronym is only referenced once in a document, it is better to simply spell it out.
+
+* **Avoid acronyms in titles and headings.** Especially if this is the first time an acronym is being referred to in a document. Acronyms in titles or headings can confuse the End User.
+
+* **
+
+* **Don't create acronyms that have not been officially established from Engineering.** It is important to remember that we are not the SME, and that acronyms we generate have the potential to confuse the End User. *Only* reference acronyms that have been recognized by Engineering.
+
+
 ## Bias-Free Communication
 
 ## Grammar and Parts of Speech
