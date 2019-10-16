@@ -101,6 +101,26 @@ Verbs have singular and plural forms. Use the verb form that agrees with the sub
 
 ### Capitalization and Proper Nouns
 
+Proper nouns are one of a kind - unique people, places, and things. Capitalize proper nouns wherever they occur.
+
+Proper nouns include:
+
+* Names and titles of individuals
+* Unique, named places, organizations, events, shows, corporate and philanthropic programs, and other things
+* Product, service, app, and tool names
+* Trademarks
+* Titles of books, songs, and other published works
+* Managed standards, such us Bluetooth
+
+If there's more than one of a thing, it's a common noun. For example, there are lots of chief operating officers, so *chief operating officer* is a common noun. There is only one *Accuray Inc., Chief Operating Officer*, so that's a proper noun.
+
+Don't capitalize common nouns unless they begin a sentence or the situation calls for title-style capitalization. Most technology concepts, product categories, devices, and features are common nouns - not proper nouns. 
+
+Capitalize technology terms as proper nouns only when:
+
+* You need to distinguish a component or product, such as CyberKnife Linear Accelerator, from a general technology with a similar name, such as a linear accelerator.
+* The terms are typically capitalized in the industry. Search [The American Heritage Dictionary](https://ahdictionary.com/), reputable internet sites, and industry-specific dictionaries. **Do not rely on unedited websites.**
+
 ### Punctuation
 
 ## Word Choice
