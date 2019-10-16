@@ -162,3 +162,5 @@ effectively
 * Use one (1) term consistently to represent one (1) concept.
 
 * Use words that can be both nouns and verbs carefully - *file, post, mark, screen, record,* and *report*, for example. Use the sentence structure and context to eliminate ambiguity.
+
+> **NOTE:** This concludes this section on the *Microsoft Style Guide*, click [here]() to continue to the next section on Accuray's Corporate Style Guide, or click [here](https://github.com/taddieken95/Accuray_Tech_Comm_Guide/blob/master/Chapter%203:%20Voicing/READme.md) to return to the Chapter 3 overview.
