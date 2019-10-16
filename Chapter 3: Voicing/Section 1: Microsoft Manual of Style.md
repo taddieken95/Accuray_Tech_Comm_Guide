@@ -10,7 +10,7 @@ The *Microsoft Style Guide* recommends three guiding principles on voicing:
 * **Crisp and Clear**
 * **Ready to Lend a Hand**
 
-It should be noted, however, that for our purposes in writing per regulatory standards, a **Warm and Relaxed** tone should not be the crux of our writing. This is not to say we should write in a way that feels robotic, but rather we should understand that the **Crispy and Clear** and **Ready to Lend a Hand** principles should be priority.
+It should be noted, however, that for our purposes in writing per regulatory standards, a **Warm and Relaxed** tone should not be the crux of our writing. This is not to say we should write in a way that feels robotic, but rather we should understand that the **Crisp and Clear** and **Ready to Lend a Hand** principles should be priority.
 
 Perform the following in order to accomplish these voicing principles:
 
@@ -121,13 +121,44 @@ Capitalize technology terms as proper nouns only when:
 * You need to distinguish a component or product, such as CyberKnife Linear Accelerator, from a general technology with a similar name, such as a linear accelerator.
 * The terms are typically capitalized in the industry. Search [The American Heritage Dictionary](https://ahdictionary.com/), reputable internet sites, and industry-specific dictionaries. **Do not rely on unedited websites.**
 
-### Punctuation
-
 ## Word Choice
 
-### Contraction Usage
+### Use simple words, concise sentences
 
-### Simple Words, Concise Sentences
+Make every word count. Concise, clear sentences save sapce, are easy to understand, and facilitate scanning. Use simple words with precise meanings, and remove words that don't add substance. Use proper judgement to avoid sounding abrupt.
 
-### Jargon
+* Choose simple verbs without modifiers. Avoid weak or vague verbs such as *be, have, make* and *do*.
 
+|**Use this**|**Not this**|
+|------------|------------|
+|use|utilize, make use of|
+|remove|extract, take away, eliminate|
+|tell|inform, let know|
+|right, left|right-hand, left-hand|
+
+* Don't use two (2) or three (3) words when one will do.
+
+|**Use this**|**Not this**|
+|------------|------------|
+|to|in order to, as a means to|
+|also|in addition|               
+|connect|establish connectivity|
+
+* Whenever possible, choose words that have one (1) clear meaning
+
+|**Use this**|**Not this**|
+|------------|------------|
+|*Because* you created the table, you can change it.|*Since* you created the table, you can change it.|
+
+* Omit unnecessary adverbs - words that describe how, when, or where. Unless they're important to the meaning of a statement, leave them out.
+
+**Examples:**
+quite
+very
+quickly
+easily
+effectively
+
+* Use one (1) term consistently to represent one (1) concept.
+
+* Use words that can be both nouns and verbs carefully - *file, post, mark, screen, record,* and *report*, for example. Use the sentence structure and context to eliminate ambiguity.
