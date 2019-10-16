@@ -37,7 +37,34 @@ If you've spent any time at Accuray, you're probably well aware of the fact that
 * **Don't create acronyms that have not been officially established from Engineering.** It is important to remember that we are not the SME, and that acronyms we generate have the potential to confuse the End User. *Only* reference acronyms that have been recognized by Engineering.
 
 
-## Bias-Free Communication
+## Gender-Free Communication
+
+> **NOTE:** This section is in tangent with the *Bias-free Communication* section of the *Microsoft Style Guide*; however, it has been slightly repurposed to specifically touch on the needs of Accuray technical communication.
+
+A large aspect of writing with the End User in mind is considering the multitude of backgrounds they may come from. It is because of this that the Accuray technical writer should seek to write in a manner that is free of bias. Consider the following when attempting to write bias-free communication:
+
+### Use gender-neutral alternatives for common terms.
+
+|**Use this**| **In place of this**|
+|------------|---------------------|
+|chair, moderator| chairman|
+|operates, staffs| mans|
+|workforce, staff, personnel|manpower|
+
+### Don't use *he, him, his, she, her*, or *hers* in generic references
+
+Instead:
+
+* Rewrite to use a generic third person, such as *the operator* or *the technician*
+
+> **NOTE:** *Microsoft Manual of Style* recommends the use of second person. However, at this time, Accuray standards and practices still recommend against this practice. **Do not use the second person in writing Accuray documentation.**
+
+* Use *person* or *individual*
+* Rewrite the sentence to have a plural noun and pronoun
+
+> **NOTE:** If it is not possible to write around the problem, it is acceptable to use a plural pronoun (they, their, or them) in generic reference to a single person.
+
+
 
 ## Grammar and Parts of Speech
 
