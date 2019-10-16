@@ -65,14 +65,39 @@ Instead:
 > **NOTE:** If it is not possible to write around the problem, it is acceptable to use a plural pronoun (they, their, or them) in generic reference to a single person.
 
 
-
 ## Grammar and Parts of Speech
 
 ### Verbs
 
-### Active and Passive Voice
+The prevailing rule of thumb for verb usage in technical documentation is **using precise verbs in the right way helps you to write clear and simple sentences.** Consider the following when it comes to the use of verbs in technical documentation:
 
-### Verb Agreement
+#### Verb Tense
+
+In the present tense, the action is happening now. The present tense is often easier to read and understand than the past or future tense. It is the best choice for most content.
+
+#### Active and Passive Voice
+
+The mood of a verb expresses the writer's intent. Most of the time, use the indiciative mood. It's crisp and straightforward without being bossy. Don't switch moods within a sentence.
+
+|**Mood**|**Use for**|**Examples**|
+|--------|-----------|------------|
+|**Indicative**|Statements of fact, questions, assertions, and explanations|Style sheets are powerful tools for formatting complex documents.|
+|**Imperative**|Instructions, procedures, direct commands, requests, and headings for columns that list customer actions (*this will likely be most of the content used in your Accuray technical documentation*)|Enter a file name, then save the file.|
+|**Subjunctive**|Wishes, hypotheses, and suggestions (**AVOID THESE, unless providing an optional "Tip"**)|We recommend that you be careful about opening email attachments.|
+
+Voice is either active or passive. Keep it active when possible.
+
+* In active voice, the subject of the sentence performs the action.
+* In passive voice, the subject is the receiver of the action.
+
+#### Verb Agreement
+
+Verbs have singular and plural forms. Use the verb form that agrees with the subject of the sentence in number.
+
+* **A group of things:** The verb is singular
+* **Two or more singular things connected by *and*:** The verb is plural
+* **Two or more singular things connected by *or*:** The verb is Singular
+* **A singular thing and a plural thing connected by *or*:** Singular or plural, to match the closest subject
 
 ### Capitalization and Proper Nouns
 
