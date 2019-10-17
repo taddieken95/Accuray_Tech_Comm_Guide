@@ -77,7 +77,7 @@
 
 
 
-## Accuray Acronyms
+## Accuray Acronyms and Abbreviations
 
 * **BOM**: *Bill of Materials*, a comprehensive list of all the parts and hardware used to create an assembly.
 
@@ -91,4 +91,18 @@
 
 * **NCMR**: *Nonconforming Material Report*, used to detail nonconforming material found during Quality inspection, or during the movement of materials within a warehouse.
 
-* **MLC**: *MultiLeaf Collimator*, controls the 
+* **MLC**: *MultiLeaf Collimator*, controls the shape of the treatment dose (radiation) distributed from the Linear Accelerator.
+
+* **Linac**: *Linear Accelerator*, responsible for creating the treatment dose (radiation).
+
+* **TDC**: 
+
+* **ATR**: *Assembly Test Record*, document used to outline all tests required in an assembly process. Results of test will be recorded within an ATR.
+
+* **WI**: *Work Instruction*, a document that details a method of assembly / testing. This is the standard "instructional" used by manufacturing.
+
+* **SOP**: *Standard of Procedure*, a document that provides an overhead view of how to approach a process at Accuray. These provide guidance / dictate Accuray methodologies, rather than providing details on assembly. If WIs are "instructionals", think of SOPs as "guidelines".
+
+* **PLE**: *Product Line Engineering*, a methodology of managing a group of related projects in an efficeint manner, taking advantage of the similarities of each project and managing their differences.
+
+* **LVI**: 
