@@ -78,3 +78,17 @@
 
 
 ## Accuray Acronyms
+
+* **BOM**: *Bill of Materials*, a comprehensive list of all the parts and hardware used to create an assembly.
+
+* **ECO**: *Engineering Change Order*, the means through which a change is implemented in Agile (see [this chapter](https://github.com/taddieken95/Accuray_Tech_Comm_Guide/blob/master/Chapter%205:%20ECOs/READme.md) for information regarding ECOs).
+
+* **ECR**: *Engineering Change Request*, the means through which a change is requested in Agile (see [this section](https://github.com/taddieken95/Accuray_Tech_Comm_Guide/blob/master/Chapter%201:%20Doc%20Requests/Section%202:%20ECRs.md) for information regarding ECRs.
+
+* **OBF**: *Out of Box Failure*, a part / assembly that fails when first installed / used.
+
+* **RMA**: *Returned Merchandise Authorization*, a part / assembly returned to the manufacturer for a refund / repair / replacement.
+
+* **NCMR**: *Nonconforming Material Report*, used to detail nonconforming material found during Quality inspection, or during the movement of materials within a warehouse.
+
+* **MLC**: *MultiLeaf Collimator*, controls the 
