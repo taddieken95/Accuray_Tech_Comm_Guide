@@ -155,12 +155,68 @@ The verb form is two (2) words, *log on* or *log off*. As a noun or adjective, u
 
 ## Numbers
 
+Spell out numbers *one* through *nine* unless they precede a unit of measurement. Follow with the numeral version in parenteses (ex: one (1) ). Use numerals for 10 and above.
+
+Use numerals for dimensions and to indicate time. Spell out ordinal numbers in text; do not use ordinal numbers for dates.
+
 ## rpm
+
+Acceptable on first reference for *revolutions per minute*. Always lowercase and used with a figure. Because the "r" stands for revolution***s***, the singular and plural forms are the same.
+
+### Correct
+
+> Verify the gantry is rotating at 30 rpm.
+
+> The centrifuge operates at 1 rpm.
+
+### Incorrect
+
+> Rotate the gantry at 12 rpm
+
+> Make sure the disk spins a 100 RPM
+
+> The gantry operates at six RPMs
 
 ## Spacing After Periods
 
+Use a single space after a period at the end of a sentence. Two (2) spaces are unnecessary with proportional-width fonts such as Arial, which is the font used in the body text of Accuray work instructions.
+
+Additionally, the *Chicago Manual of Style*, the *AP Stylebook*, the *Modern Language Association*, and the *Microsoft Manual of Style* all recommend using one space after a period at the end of a sentence.
+
 ## Temperature
+
+Always with a figure, degree symbol (°), capital F or C, with no spaces.
+
+> **NOTE:** The alt code for the degree symbol is **Alt+1076**.
+
+List the temperature in Fahrenheit with the Celsius conversion in parentheses, except for -40° (see the following example).
+
+### Correct
+
+> 212°F (100°C)
+
+> -40°F/C
+
+### Incorrect
+
+> seven degrees
+
+> 100 degrees Celsius
 
 ## Units of Measure
 
+Use numerals for all units of measure. Use an initial zero (0) for decimal fractions less than one (1). Leave a space between the numeral and unit of measure.
+
+It is acceptable on first reference to use standard abbreviations for units of measure.
+
 ## User Name
+
+Two words unless describing a label in the user interface. If the user interface uses *username*, use the one-word form only to describe the interface element.
+
+### Correct
+
+> In the Username box, enter your user name.
+
+### Incorrect
+
+> In the Username box, enter your username.
