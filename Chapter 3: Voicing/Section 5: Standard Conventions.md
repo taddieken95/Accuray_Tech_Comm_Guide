@@ -47,3 +47,120 @@
 |**U-shaped, U-turn**|Not *"U" shaped* or *"U" turn*.|
 |**via**|*Via* means "by the way of" and implies a geographic context. Avoid using *via* as a synonym for *by*,*through*, or *by means of*. Use the most specific term instead.|
 |**window**|Use *window* to refer to a portion of the screen that contains its own interface elements.|
+
+* **
+## Asure, Ensure, Insure
+
+In common English usage, *assure*, *ensure*, and *insure* are mistakenly interchanged in many situations.
+
+To provoid a consistent voice and to improve readability worldwide, make these distinctions:
+
+* **Assure**: to state positively *or* to make confident
+* **Ensure**: to make sure *or* to guarantee
+* **Insure**: to provide insurance
+
+## Bulleted Lists
+
+Use a phrase to introduce a bulleted list. Do not use *and* or *or* before the second to last belleted item. If a bulleted list contains more than one (1) sentence, it should not be a bulleted list.
+
+Bulleted lists may be used for non-sequential items / steps or when there are multiple, equally acceptable options for a step.
+
+## Capitalization
+
+Limit capitalization to the first reference of Accuray-specfic terms, acronyms, and proper nouns.
+
+Like excessive bold type, too much capitalization can make text distracting and difficult to read.
+
+## Computer Keys
+
+Spelling and case should be consistent with the keyboard. Use the action verb *press*. Do not use the word *key* after naming a computer key.
+
+If multiple keys must be pressed simultaneously, use the + symbol between each key name. Do not use spaces between the + symbol and the key name.
+
+## Contractions and the Grocer's Apostrophe
+
+Per the *Microsoft Manual of Style*: "Avoid contractions. As basic as contractions are to the native reader, they add unnecessary complexity for the non-native reader. For example, contractions that end in 's can be mistaken for possessive nouns, and the 's can be read as either has or is."
+
+Often, 's is mistakenly used to indicate a plural. This is known as the **grocer's apostrophe**, due to its prevalence on grocery store marquees.
+
+A good rule of thumb is to double-check a document for any apostrophes. Since contractions are not used in Accuray documentation, there is a good chance that an 's is being used mistakenly.
+
+This is especially common with acronyms: *MLCs*, not *MLC's* when referring to more than one MLC.
+
+## Document Numbers 
+
+List required and referenced document titles and numbers in the Required Documents table on the title page of a service instruction.
+
+The document title should be in *italics* followed by the document number in parentheses (in plain type).
+
+## Gantry Position
+
+Always use a figure and o'clock, not 3:00 or 12:00, to describe the position of the gantry: *Position the gantry at 12 o'clock*.
+
+The definition of o'clock is *of the clock*, and refers to the position of the hands on the face of a clock.
+
+Additionally, it is not necessary to reference a person's orientation in relation to the gantry when referring to a component at 12 or 6 o'clock. A component is at 12 or 6 o'clock no matter where it is viewed from.
+
+### Correct
+
+Position the linac at 3 o'clock, as viewed from the front of the gantry.
+
+Position the linac at 12 o'clock.
+
+### Incorrect
+
+Position the linac at 6:00, as viewed from the front of the gantry.
+
+Position the linac at 3:00.
+
+## It's and Its
+
+*It's* is a contraction for *it is* or *it has*: *It's important to complete training*.
+
+*Its* is the possessive form of the neuther pronoun: *Remove the component from its container*.
+
+> **NOTE:** Because contractions are not used, *it's* should not appear in Accuray documentation.
+
+## Log On, Log Off, Logon, Logoff
+
+Use *log on* or *log on to* (not *log onto*) to refer to creating a user session on a computer or a network. Use *log off* or *log off from* to refer to ending a user session on a computer or a network.
+
+Use *sign in* and *sign out* to refer to creating and ending a user session on the Internet.
+
+Do not use *log in*, *login*, *log onto*, *log off of*, *logout*, *sign off* or *sign on* unless these terms appear in the user interface.
+
+The verb form is two (2) words, *log on* or *log off*. As a noun or adjective, use one word, no hyphen: *logon* or *logoff*.
+
+### Correct
+
+You must enter your password while logging on.
+
+Some networks support this logon feature.
+
+A single logon gives you access to all the resources of the network.
+
+Remember to log off from the network.
+
+When you are finished using the network, remember to log off.
+
+### Incorrect
+
+Log in before you start Windows.
+
+Remember to log off of the network.
+
+Remember to log off the network.
+
+When you logon to the network, you have access to your e-mail.
+
+## Numbers
+
+## rpm
+
+## Spacing After Periods
+
+## Temperature
+
+## Units of Measure
+
+## User Name
