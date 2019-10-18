@@ -109,9 +109,9 @@ Additionally, it is not necessary to reference a person's orientation in relatio
 
 ### Incorrect
 
-* Position the linac at 6:00, as viewed from the front of the gantry.
+> Position the linac at 6:00, as viewed from the front of the gantry.
 
-* Position the linac at 3:00.
+> Position the linac at 3:00.
 
 ## It's and Its
 
@@ -133,25 +133,25 @@ The verb form is two (2) words, *log on* or *log off*. As a noun or adjective, u
 
 ### Correct
 
-* You must enter your password while logging on.
+> You must enter your password while logging on.
 
-* Some networks support this logon feature.
+> Some networks support this logon feature.
 
-* A single logon gives you access to all the resources of the network.
+> A single logon gives you access to all the resources of the network.
 
-* Remember to log off from the network.
+> Remember to log off from the network.
 
-* When you are finished using the network, remember to log off.
+> When you are finished using the network, remember to log off.
 
 ### Incorrect
 
-* Log in before you start Windows.
+> Log in before you start Windows.
 
-* Remember to log off of the network.
+> Remember to log off of the network.
 
-* Remember to log off the network.
+> Remember to log off the network.
 
-* When you logon to the network, you have access to your e-mail.
+> When you logon to the network, you have access to your e-mail.
 
 ## Numbers
 
