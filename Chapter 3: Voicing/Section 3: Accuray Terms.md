@@ -106,3 +106,5 @@
 * **PLE**: *Product Line Engineering*, a methodology of managing a group of related projects in an efficeint manner, taking advantage of the similarities of each project and managing their differences.
 
 * **LVI**: 
+
+> **NOTE:** Click [here]() to continue to the next section, or click [here](https://github.com/taddieken95/Accuray_Tech_Comm_Guide/blob/master/Chapter%203:%20Voicing/READme.md) to return to the chapter overview.
