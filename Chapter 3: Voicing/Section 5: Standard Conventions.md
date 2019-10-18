@@ -221,5 +221,6 @@ Two words unless describing a label in the user interface. If the user interface
 
 > In the Username box, enter your username.
 
+* **
 
 > **NOTE:** This concludes this chapter on voicing, to continue to the next chapter on proofreading, click [here](https://github.com/taddieken95/Accuray_Tech_Comm_Guide/blob/master/Chapter%204:%20Proofreading/READme.md). To go back to this chapter's overview, click [here](https://github.com/taddieken95/Accuray_Tech_Comm_Guide/blob/master/Chapter%203:%20Voicing/READme.md).
