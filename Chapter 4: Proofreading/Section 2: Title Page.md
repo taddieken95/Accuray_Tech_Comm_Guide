@@ -29,7 +29,7 @@ Either method is perfectly acceptable. There may be situations in which a work i
 4. Double click the box in the **Item Description** column (not the **Old Item Description**).
 5. Change the Agile title to match the new desired WI title.
 
-Alternatively, if the title is correct in Agile and the FrameMaker file title is incorrect, simply change the title in FrameMaker by going to the **Variables** pod (See [Chapter 2: Adobe FrameMaker](https://github.com/taddieken95/Accuray_Tech_Comm_Guide/blob/master/Chapter%202:%20Adobe%20FrameMaker/READme.md) for more information on FrameMaker authoring tips and procedures.
+Alternatively, if the title is correct in Agile and the FrameMaker file title is incorrect, simply change the title in FrameMaker by going to the **Variables** pod (See [Chapter 2: Adobe FrameMaker](https://github.com/taddieken95/Accuray_Tech_Comm_Guide/blob/master/Chapter%202:%20Adobe%20FrameMaker/READme.md) for more information on FrameMaker authoring tips and procedures).
 
 ### Correct Document Number and Revision Letter
 
