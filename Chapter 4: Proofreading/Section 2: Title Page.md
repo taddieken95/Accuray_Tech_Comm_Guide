@@ -33,12 +33,22 @@ Alternatively, if the title is correct in Agile and the FrameMaker file title is
 
 ### Correct Document Number and Revision Letter
 
-
+Ensure both the document number and the revision letter in the FrameMaker file match the document number and revision letter in Agile. Both can be changed in the **Variables** pod (see [Chapter 2: Adobe FrameMaker](https://github.com/taddieken95/Accuray_Tech_Comm_Guide/blob/master/Chapter%202:%20Adobe%20FrameMaker/READme.md) for more information on FrameMaker authoring tips and procedures).
 
 ### Correct and Complete Revision History Table
 
-### ECO Number Listed in Revision History Table is Correct
+Check Agile to make sure the **Revision Letter**, **ECO Number**, and **Date** columns all match the revision history in Agile. This can be checked by pulling up the document in Agile and going to the **Changes** tab. All required information will be listed here.
+
+> **NOTE:** The second-most recent revision row in the Revision History Table will have *See Agile* displayed in the **Date** column. Change it corresponding release date in Agile.
 
 ### Bottom Margins Say FRM 1049647, Rev. C
 
-### Date Column has been Updated for all Prior Revisions
+Make sure the bottom margin displays **FRM 10469647, Rev. C**. If it displays anything else (such as Rev. A or Rev. B), make sure the proper form is being used and then perform the following:
+
+1. Go to the **View** dropdown menu at the top of the screen.
+2. Select **Master Pages** (two pages should be displayed).
+3. Select the text displaying the incorrect form number with your cursor and change it to **FRM 1049647, Rev. C**.
+4. Repeat this for the other page.
+5. Go back to the **View** dropdown menu and select **Body Pages**. This will return you to the standard document view with an updated bottom margin.
+
+> **NOTE:** Click [here](https://github.com/taddieken95/Accuray_Tech_Comm_Guide/blob/master/Chapter%204:%20Proofreading/Section%203:%20TOC.md) to continue to the next section on TOC proofreading, or click [here](https://github.com/taddieken95/Accuray_Tech_Comm_Guide/blob/master/Chapter%204:%20Proofreading/READme.md) to return to the Chapter Overview.
