@@ -1,5 +1,5 @@
 # A Guide to Technical Communication at Accuray
-A comprehensive guide to technical documentation at *Accuray Incorporated*. Click [here](https://github.com/taddieken95/Accuray_Tech_Comm_Guide/blob/master/Chapter%201:%20Doc%20Requests/READme.md) to be taken to the beginning of Chapter 1: Document requests or select a specific chapter from the table of contents below.
+A comprehensive guide to technical documentation at *Accuray Incorporated*. Click [here](https://github.com/taddieken95/Accuray_Tech_Comm_Guide/blob/master/Chapter%201:%20Doc%20Requests/READme.md) to be taken to the beginning of **Chapter 1: Document Requests** or select a specific chapter from the table of contents below.
 
 ## Table of Contents
 
