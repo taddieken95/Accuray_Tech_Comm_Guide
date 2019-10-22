@@ -11,3 +11,22 @@
 
 * **
 
+## Updated Title, Document Number, and Revision Letter
+
+Similar to the [previous section](https://github.com/taddieken95/Accuray_Tech_Comm_Guide/blob/master/Chapter%204:%20Proofreading/Section%203:%20TOC.md), ensure the Document Title and WI Number listed at the top margin are correct. Edit these in the **Master Pages** view mode if not.
+
+## Bottom Margins have Updated Page Number
+
+Ensure the first page of the _Content.fm file is at least **Page 3**. Additionally, ensure the final page does not surpass the number of pages present in the document (i.e. - it doesn't say *Page 19 of 17*, *Page 25 of 20*, etc.).
+
+## Line Clearance and ESD Notes are at the Top of Page 3
+
+Ensure the line clearance note and ESD / radiation warnings are present at the beginning of the _Content.fm file. See figure below for reference.
+
+![alt text](https://github.com/taddieken95/Accuray_Tech_Comm_Guide/blob/master/img/line%20clearance%20and%20initial%20warnings.png "Line Clearance and Additional Initial Warnings")
+
+## Compare Content to Redlines to Ensure Changes Were Made
+
+## Ensure Cross-references are Established and Correct
+
+## Spell / Grammar Check
