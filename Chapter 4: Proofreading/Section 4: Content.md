@@ -17,7 +17,7 @@ Similar to the [previous section](https://github.com/taddieken95/Accuray_Tech_Co
 
 ## Bottom Margins have Updated Page Number
 
-Ensure the first page of the _Content.fm file is at least **Page 3**. Additionally, ensure the final page does not surpass the number of pages present in the document (i.e. - it doesn't say *Page 19 of 17*, *Page 25 of 20*, etc.).
+Ensure the first page of the _Content.fm file is at least **Page 3**. Additionally, ensure the final page does not surpass the number of pages present in the document (i.e. - it doesn't say *Page 19 of 17*, *Page 25 of 20*, etc.). This should be solved by clicking **Update Book**.
 
 ## Line Clearance and ESD Notes are at the Top of Page 3
 
@@ -27,6 +27,14 @@ Ensure the line clearance note and ESD / radiation warnings are present at the b
 
 ## Compare Content to Redlines to Ensure Changes Were Made
 
+One critically imporant aspect of proofreading is to ensure all requested content has been placed into the work instruction. It is recommended to have one monitor screen dedicated to the redline PDF and one screen dedicated to the FrameMaker document. Scroll through each at the same rate, verifying that each requested change has been made.
+
 ## Ensure Cross-references are Established and Correct
 
+The first and fastest cross-references check is done via clicking **Update Book**. If any cross-references are broken, an ErrorLog tab will appear. Click on the links presented to be taken to each broken cross-reference. Fix each broken cross-reference by either deleting it or by establishing a new one in place of it.
+
+Additionally, do a runthrough of each cross-reference in the document to ensure that it is linked to the desired point. The **Update Book** feature will not be able to infer this for you, so it will require some attention to detail.
+
 ## Spell / Grammar Check
+
+Adobe FrameMaker offers a spellcheck within the document. However, exercise sound judgment in grammar. See [Chapter 3: Voicing](https://github.com/taddieken95/Accuray_Tech_Comm_Guide/blob/master/Chapter%203:%20Voicing/READme.md) for further information on Accuray's writing protocols.
