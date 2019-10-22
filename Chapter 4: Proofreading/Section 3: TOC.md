@@ -55,3 +55,6 @@ The new TOC will be generated; however, the formatting is not fully initialized.
 4. Once the **Import and Update:** section is properly populated, click **Import**. The template will be imported.
 5. Click **Update Book** one last time so that the page number formatting will appear properly.
 6. The new TOC has been created, delete the previous TOC with broken crossreferences.
+
+
+> **NOTE:** Click [here](https://github.com/taddieken95/Accuray_Tech_Comm_Guide/blob/master/Chapter%204:%20Proofreading/Section%204:%20Content.md) to continue to the next section on proofreading the content section of your FrameMaker book. Or click [here](https://github.com/taddieken95/Accuray_Tech_Comm_Guide/blob/master/Chapter%204:%20Proofreading/READme.md) to return to the chapter overview.
