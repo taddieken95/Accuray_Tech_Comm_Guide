@@ -11,6 +11,19 @@
 
 * **
 
+
+### Title, Document Number, and Revision Letter are Updated in the Top Margin
+
+Ensure the Document Title and the WI Number listed at the top margin are both correct. If they are incorrect, adjust them using the **Doc Title** and **Version** sections of the **Variables** pod.
+
+### Page Numbers Correctly Correspond to the Content
+
+The TOC *should* be automatically linked to the _Content.fm file. If the page numbers displayed are not currently correct, click **Update Book**. If this does not resolve the issue, the crossreference in the TOC file are likely broken.
+
+### Bottom Margins have Updated Page Number
+
+Similar to the previous [section](https://github.com/taddieken95/Accuray_Tech_Comm_Guide/blob/master/Chapter%204:%20Proofreading/Section%202:%20Title%20Page.md), check the bottom margin of the document to ensure *FRM 1049647 Rev C* is displayed. If not, resolve this issue by editing the bottom margin within the **Master Pages** viewing mode (**esc + v + m**).
+
 ### Add a new TOC Page in FrameMaker
 
 In certain cases, the crossreferences in FrameMaker's TOC page become broken. You will notice this when you click the **Update Book** button and the TOC remains unchanged and does not update with the proper page numbers or section titles. 
@@ -42,9 +55,3 @@ The new TOC will be generated; however, the formatting is not fully initialized.
 4. Once the **Import and Update:** section is properly populated, click **Import**. The template will be imported.
 5. Click **Update Book** one last time so that the page number formatting will appear properly.
 6. The new TOC has been created, delete the previous TOC with broken crossreferences.
-
-### Title, Document Number, and Revision Letter are Updated in the Top Margin
-
-### Page Numbers Correctly Correspond to the Content
-
-### Bottom Margins have Updated Page Number
