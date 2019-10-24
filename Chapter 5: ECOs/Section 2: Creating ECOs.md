@@ -13,4 +13,13 @@ Perform the following to create an ECO:
 > The ECO number will be automatically assigned by Agile. Take note of this number, which is featured in the **Number:** section of the change order window.
 
 4. Select **Product Doc** from the **Change Type:** dropdown menu.
-5. 
+5. Provide a brief description of the changes being made to each document in the **Description of Change:** section.
+6. Provide an overview of the reasoning / rationale behind the update in the **Reason for Change:** section.
+7. Select **CyberKnife** / **TomoTherapy** / or **Common** (if update is applicable to both) for the **Product Line(s):** section.
+8. Select the appropriate project in the **Related Project:** section (or **NA** if there is not a company-wide project this release is applicable to).
+9. Once all fields are populated, click **Save** at the bottom-right section of the screen
+
+> The **Save** and **Cancel** buttons may not be visible if the change order window is not in full screen mode
+
+The ECO has now been created; however, further steps are required in order for the ECO to be submission-ready.
+
