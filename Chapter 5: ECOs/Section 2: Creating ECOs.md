@@ -21,5 +21,6 @@ Perform the following to create an ECO:
 
 > The **Save** and **Cancel** buttons may not be visible if the change order window is not in full screen mode
 
-The ECO has now been created; however, further steps are required in order for the ECO to be submission-ready. The **Change Solution:**, **Input Requirements Risk Mitigations and Regulatory Impact:**, and **Verification Validation and Design Transfer:** on the cover page must be populated before submittal. *These* are the sections where it is important to have an SME provide information, as they correspond to the downstream effects caused in production that the technical writer may not possess knowledge of.
+The ECO has now been created; however, further steps are required in order for the ECO to be submission-ready. The **Change Solution:**, **Input Requirements Risk Mitigations and Regulatory Impact:**, and **Verification Validation and Design Transfer:** sections on the cover page must be populated before submittal. *These* are the sections where it is important to have an SME provide information, as they correspond to the downstream effects caused in production that the technical writer may not possess knowledge of.
 
+> To continue learning about ECO submittal requirements, click [here](https://github.com/taddieken95/Accuray_Tech_Comm_Guide/blob/master/Chapter%205:%20ECOs/Section%203:%20ECO%20Submittal%20Process.md). Otherwise, click [here](https://github.com/taddieken95/Accuray_Tech_Comm_Guide/blob/master/Chapter%205:%20ECOs/READme.md) to return to the chapter overview.
