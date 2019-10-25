@@ -33,3 +33,6 @@ It is important to establish relationships between ECRs and ECOs in order to ens
 
 ## Forms to Attach
 
+If uploading a Rev. A release of a work instruction, be sure to attach FRM 1063996 in the **Attachments** tab of the ECO. If you are creating updates to a previously existing document, use FRM 033017
+
+> Both of these forms are found in Agile, and will contain instructions on how to populate them.
