@@ -36,3 +36,17 @@ It is important to establish relationships between ECRs and ECOs in order to ens
 If uploading a Rev. A release of a work instruction, be sure to attach FRM 1063996 in the **Attachments** tab of the ECO. If you are creating updates to a previously existing document, use FRM 033017
 
 > Both of these forms are found in Agile, and will contain instructions on how to populate them.
+
+## Submitting the ECO
+
+Once all required documents are attached and fields are populated, it is time to submit the ECO. To submit an ECO for further review from doc services, perform the following:
+
+1. Go to the **Next Status** dropdown menu on the ECO page.
+2. Click **Submitted**. A Select Workflow window will appear.
+3. Click **Continue** at the bottom-right of the window.
+4. Add any individual you wish to notify in the **To:** section. Provide context in the **Comments:** section.
+5. Click **Finish**, the ECO is now submitted for Doc Services approval.
+
+> Following submittal of an ECO, you can add reviewers to provide feedback in addition to Doc Services. It is best practice to include the SME with any work instruction update. Additional people also often added for approval include Quality personnel and the technician(s) who uses the instruction. Add reviewers by going to the **Workflow** tab and clicking **Add Reviewers**.
+
+> You will be able to track your ECO's progress inside the **Workflow** tab as well. The order of workflow is **Pending** > **Submitted** > **Change Control Board** > **Released** > **Implemented**. Alternatively, an ECO can be cancelled at any point during the submittal process.
