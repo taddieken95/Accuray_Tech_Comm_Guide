@@ -103,4 +103,4 @@
 
 * **PLE**: *Product Line Engineering*, a methodology of managing a group of related projects in an efficeint manner, taking advantage of the similarities of each project and managing their differences.
 
-> **NOTE:** Click [here](https://github.com/taddieken95/Accuray_Tech_Comm_Guide/blob/master/Chapter%203:%20Voicing/Section%204:%20Phrases%20and%20Terms%20to%20Avoid.md) to continue to the next section on phrases and terms to avoid, or click [here](https://github.com/taddieken95/Accuray_Tech_Comm_Guide/blob/master/Chapter%203:%20Voicing/READme.md) to return to the chapter overview.
+> Click [here](https://github.com/taddieken95/Accuray_Tech_Comm_Guide/blob/master/Chapter%203:%20Voicing/Section%204:%20Phrases%20and%20Terms%20to%20Avoid.md) to continue to the next section on phrases and terms to avoid, or click [here](https://github.com/taddieken95/Accuray_Tech_Comm_Guide/blob/master/Chapter%203:%20Voicing/READme.md) to return to the chapter overview.
