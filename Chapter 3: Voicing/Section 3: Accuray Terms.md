@@ -1,6 +1,6 @@
 # Commonly Used Accuray Terms
 
-> **NOTE:** This section will provide clarification on some commonly utilized Accuray terms and acronyms.
+> This section will provide clarification on some commonly utilized Accuray terms and acronyms.
 
 
 ## Accuray Terminology
@@ -95,8 +95,6 @@
 
 * **Linac**: *Linear Accelerator*, responsible for creating the treatment dose (radiation).
 
-* **TDC**: 
-
 * **ATR**: *Assembly Test Record*, document used to outline all tests required in an assembly process. Results of test will be recorded within an ATR.
 
 * **WI**: *Work Instruction*, a document that details a method of assembly / testing. This is the standard "instructional" used by manufacturing.
@@ -104,7 +102,5 @@
 * **SOP**: *Standard of Procedure*, a document that provides an overhead view of how to approach a process at Accuray. These provide guidance / dictate Accuray methodologies, rather than providing details on assembly. If WIs are "instructionals", think of SOPs as "guidelines".
 
 * **PLE**: *Product Line Engineering*, a methodology of managing a group of related projects in an efficeint manner, taking advantage of the similarities of each project and managing their differences.
-
-* **LVI**: 
 
 > **NOTE:** Click [here](https://github.com/taddieken95/Accuray_Tech_Comm_Guide/blob/master/Chapter%203:%20Voicing/Section%204:%20Phrases%20and%20Terms%20to%20Avoid.md) to continue to the next section on phrases and terms to avoid, or click [here](https://github.com/taddieken95/Accuray_Tech_Comm_Guide/blob/master/Chapter%203:%20Voicing/READme.md) to return to the chapter overview.
