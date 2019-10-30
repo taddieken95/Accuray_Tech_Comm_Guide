@@ -1,6 +1,6 @@
 # Microsoft Manual of Style for Technical Communication
 
-> **NOTE:** This section provides an overview of some of the more important best practice take-aways from the [Microsoft Manual of Style for Technical Communication](https://docs.microsoft.com/en-us/style-guide/welcome/). This Section does not contain every aspect of the Microsoft Manual of Style, but rather highlights the most important aspects for Accuray Technical Communication.
+> This section provides an overview of some of the more important best practice take-aways from the [Microsoft Manual of Style for Technical Communication](https://docs.microsoft.com/en-us/style-guide/welcome/). This Section does not contain every aspect of the Microsoft Manual of Style, but rather highlights the most important aspects for Accuray Technical Communication.
 
 ## Voicing Principles
 
@@ -163,4 +163,4 @@ effectively
 
 * Use words that can be both nouns and verbs carefully - *file, post, mark, screen, record,* and *report*, for example. Use the sentence structure and context to eliminate ambiguity.
 
-> **NOTE:** This concludes this section on the *Microsoft Style Guide*, click [here](https://github.com/taddieken95/Accuray_Tech_Comm_Guide/blob/master/Chapter%203:%20Voicing/Section%202:%20Accuray%20Corporate%20Style%20Guide.md) to continue to the next section on Accuray's Corporate Style Guide, or click [here](https://github.com/taddieken95/Accuray_Tech_Comm_Guide/blob/master/Chapter%203:%20Voicing/READme.md) to return to the Chapter 3 overview.
+> This concludes this section on the *Microsoft Style Guide*, click [here](https://github.com/taddieken95/Accuray_Tech_Comm_Guide/blob/master/Chapter%203:%20Voicing/Section%202:%20Accuray%20Corporate%20Style%20Guide.md) to continue to the next section on Accuray's Corporate Style Guide, or click [here](https://github.com/taddieken95/Accuray_Tech_Comm_Guide/blob/master/Chapter%203:%20Voicing/READme.md) to return to the Chapter 3 overview.
