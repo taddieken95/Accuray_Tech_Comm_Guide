@@ -1,6 +1,6 @@
 # TOC Proofreading
 
-> **NOTE:** This section will provide more in depth information regarding each of the bullet points in the TOC section of the checklist provided in [Section 1: Document Submission Readiness Checklist](https://github.com/taddieken95/Accuray_Tech_Comm_Guide/blob/master/Chapter%204:%20Proofreading/Section%201:%20Document%20Submission%20Readiness%20Checklist.md).
+> This section will provide more in depth information regarding each of the bullet points in the TOC section of the checklist provided in [Section 1: Document Submission Readiness Checklist](https://github.com/taddieken95/Accuray_Tech_Comm_Guide/blob/master/Chapter%204:%20Proofreading/Section%201:%20Document%20Submission%20Readiness%20Checklist.md).
 
 ## TOC
 
@@ -57,4 +57,4 @@ The new TOC will be generated; however, the formatting is not fully initialized.
 6. The new TOC has been created, delete the previous TOC with broken crossreferences.
 
 
-> **NOTE:** Click [here](https://github.com/taddieken95/Accuray_Tech_Comm_Guide/blob/master/Chapter%204:%20Proofreading/Section%204:%20Content.md) to continue to the next section on proofreading the content section of your FrameMaker book. Or click [here](https://github.com/taddieken95/Accuray_Tech_Comm_Guide/blob/master/Chapter%204:%20Proofreading/READme.md) to return to the chapter overview.
+> Click [here](https://github.com/taddieken95/Accuray_Tech_Comm_Guide/blob/master/Chapter%204:%20Proofreading/Section%204:%20Content.md) to continue to the next section on proofreading the content section of your FrameMaker book. Or click [here](https://github.com/taddieken95/Accuray_Tech_Comm_Guide/blob/master/Chapter%204:%20Proofreading/READme.md) to return to the chapter overview.
