@@ -10,7 +10,7 @@ Creating **Cross-References** is recommended best practice for any instance of r
 
 ## Creating Cross-References
 
-To create a **Cross-reference**, perform the following:
+To create a **Cross-Reference**, perform the following:
 
 1. Place your cursor at the desired location for the **Cross-Reference** within the document.
 2. Go to the **Cross-Reference** pod in the floating side panel (the same side panel with the **Paragraph** and **Object Properties** pods).
