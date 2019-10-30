@@ -8,6 +8,6 @@
 * [Section 4: Content Proofreading](https://github.com/taddieken95/Accuray_Tech_Comm_Guide/blob/master/Chapter%204:%20Proofreading/Section%204:%20Content.md)
 * [Section 5: Agile Proofreading](https://github.com/taddieken95/Accuray_Tech_Comm_Guide/blob/master/Chapter%204:%20Proofreading/Section%205%20Agile.md)
 
-> **NOTE:** If you desire to view this page in full page mode, click [here](https://github.com/taddieken95/Accuray_Tech_Comm_Guide/blob/master/Chapter%204:%20Proofreading/READme.md).
+> Click [here](https://github.com/taddieken95/Accuray_Tech_Comm_Guide/blob/master/Chapter%204:%20Proofreading/READme.md) to view the page in full page mode (if not currently).
 
-> **NOTE:** Click [here](https://github.com/taddieken95/Accuray_Tech_Comm_Guide/blob/master/README.md) to return to the main menu of this guide.
+> To return to the main guide overview, click [here](https://github.com/taddieken95/Accuray_Tech_Comm_Guide/blob/master/README.md).
