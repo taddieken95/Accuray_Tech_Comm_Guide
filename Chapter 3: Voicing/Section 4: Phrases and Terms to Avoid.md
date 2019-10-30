@@ -88,4 +88,6 @@ The following words may be acceptable in the right context, but they often signa
 * Understand
 * Want
 
-> This concludes this section on phrases and terms to avoid in Accuray documentation. Click [here](https://github.com/taddieken95/Accuray_Tech_Comm_Guide/blob/master/Chapter%203:%20Voicing/Section%205:%20Standard%20Conventions.md) to continue to the next section on standard conventions, or click [here](https://github.com/taddieken95/Accuray_Tech_Comm_Guide/blob/master/Chapter%203:%20Voicing/READme.md) to return to the chapter overview.
+* **
+
+> Click [here](https://github.com/taddieken95/Accuray_Tech_Comm_Guide/blob/master/Chapter%203:%20Voicing/Section%205:%20Standard%20Conventions.md) to continue to the next section on standard conventions, or click [here](https://github.com/taddieken95/Accuray_Tech_Comm_Guide/blob/master/Chapter%203:%20Voicing/READme.md) to return to the chapter overview.
