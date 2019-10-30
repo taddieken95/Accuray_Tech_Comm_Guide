@@ -15,5 +15,6 @@ Ensure both the native file (the .zip folder containing all of the FrameMaker fi
 
 Ensure that the correct files are uploaded to their proper locations inside Agile.
 
+* **
 
 > This concludes this chapter on proofreading. To begin the next chapter on ECOs and Agile, click [here](https://github.com/taddieken95/Accuray_Tech_Comm_Guide/blob/master/Chapter%205:%20ECOs/READme.md). To return to this chapter's overview, click [here](https://github.com/taddieken95/Accuray_Tech_Comm_Guide/blob/master/Chapter%204:%20Proofreading/READme.md)
