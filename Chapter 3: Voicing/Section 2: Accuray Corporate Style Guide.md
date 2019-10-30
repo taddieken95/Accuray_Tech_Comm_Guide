@@ -109,3 +109,5 @@ The following files must go in a translation package to our vendors:
 *	PDF Redlines of Changes between Revisions (if applicable)
 
 The files that Accuray sends (xml, fm, docx) must match the final released PDF that is sent to the vendors.
+
+> To continue to the next section of this chapter on Accuray terminology, click [here](https://github.com/taddieken95/Accuray_Tech_Comm_Guide/blob/master/Chapter%203:%20Voicing/Section%203:%20Accuray%20Terms.md). Otherwise, click [here](https://github.com/taddieken95/Accuray_Tech_Comm_Guide/blob/master/Chapter%203:%20Voicing/READme.md) to return to the chapter overview.
