@@ -19,4 +19,6 @@ To export a FrameMaker file to a PDF, do the following:
 
 5. Your PDF file should now be created and available for view inside an **Acrobat Distiller** window (this window should appear automatically). To view the file, double-click it. Ensure all needed attributes are present in your PDF (see [this article]() for more information regarding proofreading Accuray documents).
 
+* **
+
 > This concludes this Chapter on Adobe FrameMaker. Click [here](https://github.com/taddieken95/Accuray_Tech_Comm_Guide/blob/master/README.md) to be taken back to the Main Overview or click [here](https://github.com/taddieken95/Accuray_Tech_Comm_Guide/blob/master/Chapter%203:%20Voicing/READme.md) to begin our next Chapter on Voicing.
