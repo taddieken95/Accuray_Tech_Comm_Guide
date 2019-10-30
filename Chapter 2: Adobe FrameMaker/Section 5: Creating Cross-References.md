@@ -1,6 +1,6 @@
 # Cross-References
 
-> **NOTE:** This section will provide an overview of creating Cross-References within Adobe FrameMaker. 
+> This section will provide an overview of creating Cross-References within Adobe FrameMaker. 
 
 ## What are Cross-References?
 
@@ -26,3 +26,7 @@ To create a **Cross-reference**, perform the following:
 As mentioned previously, the **Cross-Reference** will now be updated should the linked attribute change. In order to update, click the **Update Book** button in the FrameMaker file panel.
 
 Should an attribute that a **Cross-Reference** is linked to be deleted, an error will occur when updating the book. Be sure to delete any **Cross-References** attached to content being deleted.
+
+* **
+
+> Click [here](https://github.com/taddieken95/Accuray_Tech_Comm_Guide/blob/master/Chapter%202:%20Adobe%20FrameMaker/Section%206:%20Exporting%20to%20PDF.md) to learn about the PDF creation process, or click [here](https://github.com/taddieken95/Accuray_Tech_Comm_Guide/tree/master/Chapter%202:%20Adobe%20FrameMaker) to return to the chapter overview.
