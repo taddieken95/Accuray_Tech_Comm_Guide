@@ -1,6 +1,6 @@
 # Proofreading Agile Uploading
 
-> **NOTE:** This section will provide more infromation regarding the bullet points listed under the **Agile Uploading** section of [Section 1: Document Submission Readiness Checklist](https://github.com/taddieken95/Accuray_Tech_Comm_Guide/blob/master/Chapter%204:%20Proofreading/Section%201:%20Document%20Submission%20Readiness%20Checklist.md).
+> This section will provide more infromation regarding the bullet points listed under the **Agile Uploading** section of [Section 1: Document Submission Readiness Checklist](https://github.com/taddieken95/Accuray_Tech_Comm_Guide/blob/master/Chapter%204:%20Proofreading/Section%201:%20Document%20Submission%20Readiness%20Checklist.md).
 
 * Attach Native Files and PDF Release - label accordingly
 * Double-check they are entered under the correct document in Agile
@@ -16,4 +16,4 @@ Ensure both the native file (the .zip folder containing all of the FrameMaker fi
 Ensure that the correct files are uploaded to their proper locations inside Agile.
 
 
-> **NOTE:** This concludes this chapter on proofreading. To begin the next chapter on ECOs and Agile, click [here](https://github.com/taddieken95/Accuray_Tech_Comm_Guide/blob/master/Chapter%205:%20ECOs/READme.md). To return to this chapter's overview, click [here](https://github.com/taddieken95/Accuray_Tech_Comm_Guide/blob/master/Chapter%204:%20Proofreading/READme.md)
+> This concludes this chapter on proofreading. To begin the next chapter on ECOs and Agile, click [here](https://github.com/taddieken95/Accuray_Tech_Comm_Guide/blob/master/Chapter%205:%20ECOs/READme.md). To return to this chapter's overview, click [here](https://github.com/taddieken95/Accuray_Tech_Comm_Guide/blob/master/Chapter%204:%20Proofreading/READme.md)
