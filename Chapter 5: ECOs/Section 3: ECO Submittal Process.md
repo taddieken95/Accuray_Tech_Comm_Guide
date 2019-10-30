@@ -24,9 +24,9 @@ It is important to establish relationships between ECRs and ECOs in order to ens
 2. Click **Add**, then click **By Search**. A Search window will appear.
 3. Enter in the ECR number in the search bar. Double-click the ECR when it appears.
 
-> The ECR must be in a **Pending** state to be assigned a relationship. If it is in a **Submitted** state, send it back to **Pending** yourself by going to the **Workflow** tab and clicking the green **Pending** box in the **Summary (Default Change Requests)** section. A Change Status to Pending window will appear. It is not necessary to notify any users, but you can if you desire. Click **Finish** to send to **Pending**
+> **NOTE:** The ECR must be in a **Pending** state to be assigned a relationship. If it is in a **Submitted** state, send it back to **Pending** yourself by going to the **Workflow** tab and clicking the green **Pending** box in the **Summary (Default Change Requests)** section. A Change Status to Pending window will appear. It is not necessary to notify any users, but you can if you desire. Click **Finish** to send to **Pending**
 
-> If the ECR is in **CCB** status, it will require Doc Services to be submitted back to pending. Contact via e-mail.
+> **NOTE:** If the ECR is in **CCB** status, it will require Doc Services to be submitted back to pending. Contact via e-mail.
 
 4. Assign a rule causing the ECR to be set to *Close* when the ECO is released.
 5. Click **Save** to implement the new rule.
@@ -35,7 +35,7 @@ It is important to establish relationships between ECRs and ECOs in order to ens
 
 If uploading a Rev. A release of a work instruction, be sure to attach FRM 1063996 in the **Attachments** tab of the ECO. If you are creating updates to a previously existing document, use FRM 033017
 
-> Both of these forms are found in Agile, and will contain instructions on how to populate them.
+> **NOTE:** Both of these forms are found in Agile, and will contain instructions on how to populate them.
 
 ## Submitting the ECO
 
