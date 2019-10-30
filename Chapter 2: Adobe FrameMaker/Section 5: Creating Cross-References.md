@@ -29,4 +29,4 @@ Should an attribute that a **Cross-Reference** is linked to be deleted, an error
 
 * **
 
-> Click [here](https://github.com/taddieken95/Accuray_Tech_Comm_Guide/blob/master/Chapter%202:%20Adobe%20FrameMaker/Section%206:%20Exporting%20to%20PDF.md) to learn about the PDF creation process, or click [here](https://github.com/taddieken95/Accuray_Tech_Comm_Guide/tree/master/Chapter%202:%20Adobe%20FrameMaker) to return to the chapter overview.
+> Click [here](https://github.com/taddieken95/Accuray_Tech_Comm_Guide/blob/master/Chapter%202:%20Adobe%20FrameMaker/Section%206:%20Exporting%20to%20PDF.md) to continue to the next section regarding the PDF creation process, or click [here](https://github.com/taddieken95/Accuray_Tech_Comm_Guide/tree/master/Chapter%202:%20Adobe%20FrameMaker) to return to the chapter overview.
