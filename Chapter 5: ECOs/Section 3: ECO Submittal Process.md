@@ -14,7 +14,7 @@ First and foremost, we must ensure that our work instructions are uploaded to th
 6. Click **Add**. The files will now be uploaded. Repeat Steps 1-5 for any additional WIs involved in your ECO.
 7. Upon completion, return to the **Affected Items** tab of your ECO. Ensure each of the applicable columns are populated.
 
-> Populate the remaining columns for each item listed in your ECO (**New Lifecycle Phase** through **Initial Base**. Except in particular situations, **New Lifcycle Phase** should be set to **Released**, **1st Article Required** should be set to **No**, and **On Order** through **Install Base** should be set to **Not Applicable**. Additionally, ensure your new revision letter level is inputed in the **New Rev** column.
+Populate the remaining columns for each item listed in your ECO (**New Lifecycle Phase** through **Initial Base**. Except in particular situations, **New Lifcycle Phase** should be set to **Released**, **1st Article Required** should be set to **No**, and **On Order** through **Install Base** should be set to **Not Applicable**. Additionally, ensure your new revision letter level is inputed in the **New Rev** column.
 
 ## Establishing Relationships
 
