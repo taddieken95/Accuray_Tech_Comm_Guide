@@ -1,6 +1,6 @@
 # Engineering Change Order Overview
 
-> **NOTE:** This section will provide information regarding the purpose and functionality of Engineering Change Orders (ECOs) in Accuray's Agile PLM system.
+> This section will provide information regarding the purpose and functionality of Engineering Change Orders (ECOs) in Accuray's Agile PLM system.
 
 ## "What are ECOs?"
 
