@@ -1,6 +1,6 @@
 # Document Submission Readiness Checklist
 
-> **NOTE:** This section will provide an overview summary of the entire document submission checklist. The proceeding sections of this chapter will provide more details regarding each item on this checklist.
+> This section will provide an overview summary of the entire document submission checklist. The proceeding sections of this chapter will provide more details regarding each item on this checklist.
 
 *Before PDF creation, ensure the following are accurate within the FrameMaker files. Failure to do so may result in an ECO rejection from Doc Services*
 
@@ -35,4 +35,4 @@
 * Attach Native Files and PDF Release - label accordingly
 * Double-check they are entered under the correct document in Agile
 
-> **NOTE:** For more information regarding the Agile uploading, continue to [Chapter 5](https://github.com/taddieken95/Accuray_Tech_Comm_Guide/blob/master/Chapter%205:%20ECOs/READme.md). Otherwise, to receive more information on each of these four (4) proofreading sections, click [here](https://github.com/taddieken95/Accuray_Tech_Comm_Guide/blob/master/Chapter%204:%20Proofreading/Section%202:%20Title%20Page.md).
+> For more information regarding the Agile uploading, continue to [Chapter 5](https://github.com/taddieken95/Accuray_Tech_Comm_Guide/blob/master/Chapter%205:%20ECOs/READme.md). Otherwise, to receive more information on each of these four (4) proofreading sections, click [here](https://github.com/taddieken95/Accuray_Tech_Comm_Guide/blob/master/Chapter%204:%20Proofreading/Section%202:%20Title%20Page.md).
