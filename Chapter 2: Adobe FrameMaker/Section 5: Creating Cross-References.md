@@ -4,7 +4,9 @@
 
 ## What are Cross-References?
 
-A **Cross-Reference** is a piece of text that is linked to another element within a document (such as a **Figure Caption**, **Heading**, **Step Number**, etc.). Creating **Cross-References** is recommended best practice for any instance of referring to an element that could change orders in future revisions, as the **Cross-Reference** will automatically update should the linked element change.
+A **Cross-Reference** is a piece of text that is linked to another element within a document (such as a **Figure Caption**, **Heading**, **Step Number**, etc.). 
+
+Creating **Cross-References** is recommended best practice for any instance of referring to an element that could change orders in future revisions, as the **Cross-Reference** will automatically update should the linked element change.
 
 ## Creating Cross-References
 
