@@ -37,4 +37,4 @@ Additionally, do a runthrough of each cross-reference in the document to ensure 
 
 ## Spell / Grammar Check
 
-Adobe FrameMaker offers a spellcheck within the document. However, exercise sound judgment in grammar. See [Chapter 3: Voicing](https://github.com/taddieken95/Accuray_Tech_Comm_Guide/blob/master/Chapter%203:%20Voicing/READme.md) for further information on Accuray's writing protocols.
+Adobe FrameMaker offers a spellcheck within the document. However, exercise sound judgment in grammar. See [Chapter 3: Voicing](https://github.com/taddieken95/Accuray_Tech_Comm_Guide/blob/master/Chapter%203:%20Voicing/READme.md) for further information on Accuray's writing protocols. Or click [here](https://github.com/taddieken95/Accuray_Tech_Comm_Guide/blob/master/Chapter%204:%20Proofreading/READme.md) to return to the chapter overview.
