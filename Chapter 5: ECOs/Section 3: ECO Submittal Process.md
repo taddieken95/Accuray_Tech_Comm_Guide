@@ -57,4 +57,4 @@ You will be able to track your ECO's progress inside the **Workflow** tab as wel
 
 * **
 
-> This concludes the final chapter of this guide, congratulations! Click [here](https://github.com/taddieken95/Accuray_Tech_Comm_Guide/blob/master/Chapter%205:%20ECOs/READme.md) to return to this chapter's overview, or click [here](https://github.com/taddieken95/Accuray_Tech_Comm_Guide/blob/master/README.md) to return to the guide's main overview
+> This concludes the final chapter of this guide, **congratulations!** Click [here](https://github.com/taddieken95/Accuray_Tech_Comm_Guide/blob/master/Chapter%205:%20ECOs/READme.md) to return to this chapter's overview, or click [here](https://github.com/taddieken95/Accuray_Tech_Comm_Guide/blob/master/README.md) to return to the guide's main overview
