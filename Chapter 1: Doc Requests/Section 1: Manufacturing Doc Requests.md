@@ -1,6 +1,6 @@
 # Manufacturing Department Document Requests
 
-> This section provides an overview of the means by which the Accuray Manufacturing Technical Writer receives requests for the creation / editing of a document.
+> This section provides an overview of the means by which the Accuray Manufacturing technical writer receives requests for the creation / editing of a document.
 
 ## Configure Agile Interface
 
