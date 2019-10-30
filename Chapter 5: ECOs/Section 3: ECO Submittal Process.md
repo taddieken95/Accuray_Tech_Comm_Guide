@@ -16,7 +16,7 @@ First and foremost, we must ensure that our work instructions are uploaded to th
 
 Populate the remaining columns for each item listed in your ECO (**New Lifecycle Phase** through **Initial Base**). Except in particular situations, **New Lifcycle Phase** should be set to **Released**, **1st Article Required** should be set to **No**, and **On Order** through **Install Base** should be set to **Not Applicable**. 
 
-Additionally, ensure your new revision letter level is inputed in the **New Rev** column.
+Additionally, ensure your new revision letter level is listed in the **New Rev** column.
 
 ## Establishing Relationships
 
