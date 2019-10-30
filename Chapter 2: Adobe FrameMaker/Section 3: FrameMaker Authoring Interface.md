@@ -1,6 +1,6 @@
 # FrameMaker Authoring Interface
 
-> **NOTE:** This section details the various features within Adobe FrameMaker, along with how to author using our unstructured (non-DITA/XML) template.
+> This section details the various features within Adobe FrameMaker, along with how to author using our unstructured (non-DITA/XML) template.
 
 ## Launching FrameMaker
 
@@ -46,6 +46,6 @@ The following table will provide an explanation for different features of the **
 |**Sq. Bullet List**| Use as an unordered sublist beneath a **Bullet List** or a **Sub Step**| Use when further clarification is required for an ordered sublist or an unordered list.|
 |**FigureCaption**| Automatically creates a numerically ordered **Figure Number** along with space to create a descriptive caption of the **Figure** shown above | Use after every **Figure** added to the document. Captions are not required by FrameMaker but best practices would suggest providing a descriptive phrase to each image added. See [this section](https://github.com/taddieken95/Accuray_Tech_Comm_Guide/blob/master/Chapter%202:%20Adobe%20FrameMaker/Section%204:%20Uploading%20Images%20in%20FrameMaker.md) for more information on how to incorporate images into a work instruction.|
 
-> To continue to the next section of this user guide, click [here](https://github.com/taddieken95/Accuray_Tech_Comm_Guide/blob/master/Chapter%202:%20Adobe%20FrameMaker/Section%204:%20Uploading%20Images%20in%20FrameMaker.md).
+* **
 
-> Click [here](https://github.com/taddieken95/Accuray_Tech_Comm_Guide/tree/master/Chapter%202:%20Adobe%20FrameMaker) to return to the Chapter 2 overview, or click [here](https://github.com/taddieken95/Accuray_Tech_Comm_Guide) to return to the overview for the entire guide.
+> To continue to the next section on Uploading Images to FrameMaker, click [here](https://github.com/taddieken95/Accuray_Tech_Comm_Guide/blob/master/Chapter%202:%20Adobe%20FrameMaker/Section%204:%20Uploading%20Images%20in%20FrameMaker.md). Otherwise, click [here](https://github.com/taddieken95/Accuray_Tech_Comm_Guide/tree/master/Chapter%202:%20Adobe%20FrameMaker) to return to the chapter overview.
