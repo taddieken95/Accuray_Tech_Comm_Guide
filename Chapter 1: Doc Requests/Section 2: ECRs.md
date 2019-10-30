@@ -1,6 +1,6 @@
 # Engineering Change Request Protocols for Documentation
 
-> **NOTE:** This document outlines the purpose and the functionality of document requests submitted via ECRs. These ECRs should be visible via the two (2) windows created in the [previous section](https://github.com/taddieken95/Accuray_Tech_Comm_Guide/blob/master/Chapter%201:%20Doc%20Requests/Section%201:%20Manufacturing%20Doc%20Requests.md) of this [chapter](https://github.com/taddieken95/Accuray_Tech_Comm_Guide/tree/master/Chapter%201:%20Doc%20Requests).
+> This document outlines the purpose and functionality of document requests submitted via ECRs. These ECRs should be visible via the two (2) windows created in the [previous section](https://github.com/taddieken95/Accuray_Tech_Comm_Guide/blob/master/Chapter%201:%20Doc%20Requests/Section%201:%20Manufacturing%20Doc%20Requests.md) of this [chapter](https://github.com/taddieken95/Accuray_Tech_Comm_Guide/tree/master/Chapter%201:%20Doc%20Requests).
 
 ## What are ECRs?
 
@@ -13,9 +13,9 @@ Your documentation request ECRs *should* be arriving via the two (2) windows cre
 
 ## What do Documentation Request ECRs consist of?
 
-Similar to all variations of ECRs, a documentation request ECR will provide the technical writer with an overview of the change and why these changes are being requested. The overview of the change can be found inside the **Description of Change:** section on the **Cover Page** of the ECR, and the rationale behind the change is found in the **Reason for Change:** section immediately below the **Description of Change:**. These will provide context, but will likely not contain all the necessary specifics for what needs to be updated.
+A documentation request ECR will provide the technical writer with an overview of the change and why these changes are being requested. The overview of the change can be found inside the **Description of Change:** section on the **Cover Page** of the ECR, and the rationale behind the change is found in the **Reason for Change:** section immediately below the **Description of Change:**. These will provide context, but will likely not contain all the necessary specifications for what needs to be updated.
 
-For the specifics, you should go to the **Attachments** tab inside the ECR. Here, you should find a PDF / Word document known as a **Redline**. A **Redline** will specifically layout all of the changes that an SME desires for the documents. Be sure to follow these redlines closely, as Doc Services will closely analyze the changes made to your document and verify that they match the redlines attached.
+For the specifications, you should go to the **Attachments** tab inside the ECR. Here, you should find a PDF / Word document known as a **Redline**. A **Redline** will specifically lay out all of the changes that an SME desires for the documents. Be sure to follow these redlines closely, as Doc Services will analyze the changes made to your document and verify that they match the redlines attached.
 
 > **NOTE:** If additional changes are created inside the document, notify the corresponding SME so that they may update the redlines accordingly. Failure to do so may result in a rejected ECO.
 
@@ -30,7 +30,7 @@ If the SME has not created an ECR, do one of the following:
 
 ### Creating an ECR
 
-In order to create your own ECR, do the following:
+In order to create your own ECR, perform the following:
 
 1. Go to the **Create New** dropdown menu at the top of the Agile screen.
 2. Go to **Changes** and then click **Change Requests**.
@@ -40,6 +40,4 @@ In order to create your own ECR, do the following:
 6. Attach all redlines in the **Attachments** tab of the ECR.
 7. If this document is not an initial release, populate FRM 033017 and attach to **Attachments** tab of ECR. See (insert link later) for protocol on a Rev. A release of a document.
 
-> For information regarding the creation of work instructions with Adobe FrameMaker, continue to the next [chapter](https://github.com/taddieken95/Accuray_Tech_Comm_Guide/blob/master/Chapter%202:%20Adobe%20FrameMaker/READme.md).
-
-> Click [here](https://github.com/taddieken95/Accuray_Tech_Comm_Guide/tree/master/Chapter%201:%20Doc%20Requests) to return to this chapter's overview or [here](https://github.com/taddieken95/Accuray_Tech_Comm_Guide) to return to the entire guide's overview.
+> For information regarding the creation of work instructions with Adobe FrameMaker, continue to the next [chapter](https://github.com/taddieken95/Accuray_Tech_Comm_Guide/blob/master/Chapter%202:%20Adobe%20FrameMaker/READme.md) or click [here](https://github.com/taddieken95/Accuray_Tech_Comm_Guide/tree/master/Chapter%201:%20Doc%20Requests) to return to this chapter's overview.
