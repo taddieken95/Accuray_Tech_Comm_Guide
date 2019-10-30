@@ -1,8 +1,8 @@
 # Corporate Style Guidelines
 
-## Accuray Style Guideline Overview
-
 > This style guide establishes the standards through which Accuray employees should follow when producing Accuray documentation. This style guide should be followed with particular accuracy when creating customer-facing documentation (such as a user manual) or any other documentation that is not solely for internal use (such as legal documentation).
+
+## Accuray Style Guideline Overview
 
 When writing about any Accuray product, state the entire name of the product on first mention and use lead caps for each word of the proper name. You are allowed to shorten the product name thereafter. Italicize the product name after the first use. For example, if you are introducing the CyberKnife® Treatment Delivery System you want to write out the full name on first reference. Upon subsequent mentions, you many refer to it as the CyberKnife System. Please note that the word *System* remains capitalized because it is part of the brand name. This rule applies to all product names. When referring to Accuray, the company, state Accuray Incorporated or Accuray. It should never be abbreviated to Accuray, Inc.
 
@@ -109,5 +109,7 @@ The following files must go in a translation package to our vendors:
 *	PDF Redlines of Changes between Revisions (if applicable)
 
 The files that Accuray sends (xml, fm, docx) must match the final released PDF that is sent to the vendors.
+
+* **
 
 > To continue to the next section of this chapter on Accuray terminology, click [here](https://github.com/taddieken95/Accuray_Tech_Comm_Guide/blob/master/Chapter%203:%20Voicing/Section%203:%20Accuray%20Terms.md). Otherwise, click [here](https://github.com/taddieken95/Accuray_Tech_Comm_Guide/blob/master/Chapter%203:%20Voicing/READme.md) to return to the chapter overview.
