@@ -9,7 +9,7 @@ First thing's first, in order to efficiently receive SME requests, we must set u
 ### Configure Agile Interface for TomoTherapy Document Requests
 
 1. Go to *accuray.okta.com*, this will take you to a centralized hub of different enterprise programs used here at Accuray Incorporated. Click the **Oracle Agile PLM** widgit.
-2. You will most likely be routed to the **Workflow Routings** tab of the Accuray Agile Interface. Go toward the top of the screen, and select the **Dashboard** tab.
+2. You will be routed to the **Workflow Routings** tab of the Accuray Agile Interface. Go toward the top of the screen, and select the **Dashboard** tab.
 3. You will now be presented with a screen featuring four (4) empty tables. Click the **Configure** button in the center of the top-left table.
 4. Change the **Table Name** to *TT ECRs*. Ensure **Display Type** is set to **Table** then click **Next** at the bottom-right corner of the window.
 5. Select the **Advanced Search** radio button and click **Define Query**. A new window will appear.
@@ -27,7 +27,7 @@ The TT ECR Window should now be configured and appear as shown in the figure bel
 
 ### Configure Agile Interface for CyberKnife Document Requests
 
-Next, you will also need to create a window for CyberKnife document requests. The process for creating a CK ECR window should be nearly identical to the previous section, with the following differences:
+Next, you will also need to create a window for CyberKnife document requests. The process for creating a CK ECR window is nearly identical to the previous section, but with the following differences:
 
 * In Step 3, click the **Configure** button in the center of the top-right table.
 * In Step 4, assign the **Table Name** to *CK ECRs*
