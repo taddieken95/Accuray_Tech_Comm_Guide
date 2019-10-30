@@ -40,4 +40,5 @@ In order to create your own ECR, perform the following:
 6. Attach all redlines in the **Attachments** tab of the ECR.
 7. If this document is not an initial release, populate FRM 033017 and attach to **Attachments** tab of ECR. See (insert link later) for protocol on a Rev. A release of a document.
 
+* **
 > For information regarding the creation of work instructions with Adobe FrameMaker, continue to the next [chapter](https://github.com/taddieken95/Accuray_Tech_Comm_Guide/blob/master/Chapter%202:%20Adobe%20FrameMaker/READme.md) or click [here](https://github.com/taddieken95/Accuray_Tech_Comm_Guide/tree/master/Chapter%201:%20Doc%20Requests) to return to this chapter's overview.
