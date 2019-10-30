@@ -51,4 +51,6 @@ Make sure the bottom margin displays **FRM 10469647, Rev. C**. If it displays an
 4. Repeat this for the other page.
 5. Go back to the **View** dropdown menu and select **Body Pages**. This will return you to the standard document view with an updated bottom margin.
 
+* **
+
 > Click [here](https://github.com/taddieken95/Accuray_Tech_Comm_Guide/blob/master/Chapter%204:%20Proofreading/Section%203:%20TOC.md) to continue to the next section on TOC proofreading, or click [here](https://github.com/taddieken95/Accuray_Tech_Comm_Guide/blob/master/Chapter%204:%20Proofreading/READme.md) to return to the chapter overview.
