@@ -1,6 +1,6 @@
 # Chapter 3: Voicing
 
-> This Chapter provides further information regarding voicing when producing technical documentation at Accuray. Click [here](https://github.com/taddieken95/Accuray_Tech_Comm_Guide/blob/master/Chapter%203:%20Voicing/Section%201:%20Microsoft%20Manual%20of%20Style.md) to start from the beginning of this Chapter, or click on one of the Sections below to jump to specific topics.
+> This chapter provides further information regarding voicing when producing technical documentation at Accuray. Click [here](https://github.com/taddieken95/Accuray_Tech_Comm_Guide/blob/master/Chapter%203:%20Voicing/Section%201:%20Microsoft%20Manual%20of%20Style.md) to start from the beginning of this chapter, or click on one of the sections below to jump to specific topics.
 
 ## Table of Contents
 
