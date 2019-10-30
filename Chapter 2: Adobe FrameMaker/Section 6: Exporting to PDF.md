@@ -21,4 +21,4 @@ To export a FrameMaker file to a PDF, do the following:
 
 * **
 
-> This concludes this Chapter on Adobe FrameMaker. Click [here](https://github.com/taddieken95/Accuray_Tech_Comm_Guide/blob/master/README.md) to be taken back to the main overview or click [here](https://github.com/taddieken95/Accuray_Tech_Comm_Guide/blob/master/Chapter%203:%20Voicing/READme.md) to begin our next chapter on Voicing.
+> This concludes this chapter on Adobe FrameMaker. Click [here](https://github.com/taddieken95/Accuray_Tech_Comm_Guide/blob/master/README.md) to be taken back to the main overview or click [here](https://github.com/taddieken95/Accuray_Tech_Comm_Guide/blob/master/Chapter%203:%20Voicing/READme.md) to begin our next chapter on Voicing.
