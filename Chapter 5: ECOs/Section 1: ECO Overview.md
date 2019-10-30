@@ -18,4 +18,6 @@ Short answer, *it depends*! In standard practice, it is likely most advisable to
 
 However, that's not to say that Accuray technical writers *never* create ECO. Often times you will come across changes that solely effect the documentation itself, with no changes to the production process. It is in such cases that it may be most effeceint and effective for the technical writer to create the ECO themself (such cases could be: typos, template changes, modifications to existing templates).
 
+* **
+
 > To learn more on how to create an ECO, click [here](https://github.com/taddieken95/Accuray_Tech_Comm_Guide/blob/master/Chapter%205:%20ECOs/Section%202:%20Creating%20ECOs.md) to be taken to the next section of this chapter. Otherwise, click [here](https://github.com/taddieken95/Accuray_Tech_Comm_Guide/blob/master/Chapter%205:%20ECOs/READme.md) to return to the chapter overview.
