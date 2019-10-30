@@ -1,6 +1,6 @@
 # An Overview of Adobe FrameMaker
 
-> **NOTE:** This section should be used as a reference for developing an understanding of FrameMaker and why Accuray currently uses it for documentation purposes.
+> This section should be used as a reference for developing an understanding of FrameMaker and why Accuray currently uses it for documentation purposes.
 
 ## What is FrameMaker?
 
@@ -16,6 +16,6 @@ Additionally, while FrameMaker is more rigid than a word proccesor such as Word,
 
 One last reason that FrameMaker is particularly strong is its ability to establish crossreferences. A **crossreference** is a piece of text that is connected to another piece of text / item inside of a document (such as a **Figure**, **Heading**, or **Step Number**). The advantage of using crossreferences is that they automatically update if elements of a document are moved around. This feature saves time and prevents potential headaches that may otherwise arise without crossreferences.
 
-> Click [here](https://github.com/taddieken95/Accuray_Tech_Comm_Guide/blob/master/Chapter%202:%20Adobe%20FrameMaker/Section%202:%20FrameMaker%20Files.md) to continue on to the next section of this chapter.
+* **
 
-> Click [here](https://github.com/taddieken95/Accuray_Tech_Comm_Guide/tree/master/Chapter%202:%20Adobe%20FrameMaker) to return to the Chapter 2 overview, or click [here](https://github.com/taddieken95/Accuray_Tech_Comm_Guide) to return to the overview for the entire guide.
+> Click [here](https://github.com/taddieken95/Accuray_Tech_Comm_Guide/blob/master/Chapter%202:%20Adobe%20FrameMaker/Section%202:%20FrameMaker%20Files.md) to continue on to the next section of this chapter on FrameMaker Files and Functionality. Otherwise click [here](https://github.com/taddieken95/Accuray_Tech_Comm_Guide/tree/master/Chapter%202:%20Adobe%20FrameMaker) to return to the chapter overview.
