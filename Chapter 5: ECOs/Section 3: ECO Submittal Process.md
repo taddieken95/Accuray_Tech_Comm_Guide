@@ -47,6 +47,8 @@ Once all required documents are attached and fields are populated, it is time to
 4. Add any individual you wish to notify in the **To:** section. Provide context in the **Comments:** section.
 5. Click **Finish**, the ECO is now submitted for Doc Services approval.
 
-> Following submittal of an ECO, you can add reviewers to provide feedback in addition to Doc Services. It is best practice to include the SME with any work instruction update. Additional people also often added for approval include Quality personnel and the technician(s) who uses the instruction. Add reviewers by going to the **Workflow** tab and clicking **Add Reviewers**.
+Following submittal of an ECO, you can add reviewers to provide feedback in addition to Doc Services. It is best practice to include the SME with any work instruction update. Additional people also often added for approval include Quality personnel and the technician(s) who uses the instruction. Add reviewers by going to the **Workflow** tab and clicking **Add Reviewers**.
 
-> You will be able to track your ECO's progress inside the **Workflow** tab as well. The order of workflow is **Pending** > **Submitted** > **Change Control Board** > **Released** > **Implemented**. Alternatively, an ECO can be cancelled at any point during the submittal process.
+You will be able to track your ECO's progress inside the **Workflow** tab as well. The order of workflow is **Pending** > **Submitted** > **Change Control Board** > **Released** > **Implemented**. Alternatively, an ECO can be cancelled at any point during the submittal process.
+
+> This concludes the final chapter of this guide, congratulations! Click [here](https://github.com/taddieken95/Accuray_Tech_Comm_Guide/blob/master/Chapter%205:%20ECOs/READme.md) to return to this chapter's overview, or click [here](https://github.com/taddieken95/Accuray_Tech_Comm_Guide/blob/master/README.md) to return to the guide's main overview
