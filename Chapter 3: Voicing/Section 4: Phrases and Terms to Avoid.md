@@ -1,6 +1,6 @@
 # Phrases and Terms to Avoid in Accuray Documentation
 
-> **NOTE:** This docment contains a list of phrases / terms to avoid while creating technical documentation, along with providing rationale/alternative wording. Phrases and terms will be listed in alphabetical order.
+> This docment contains a list of phrases / terms to avoid while creating technical documentation, along with providing rationale/alternative wording. Phrases and terms will be listed in alphabetical order.
 
 ## Advised Replacement Terms and Phrases
 
@@ -88,4 +88,4 @@ The following words may be acceptable in the right context, but they often signa
 * Understand
 * Want
 
-> **NOTE:** This concludes this section on phrases and terms to avoid in Accuray documentation. Click [here](https://github.com/taddieken95/Accuray_Tech_Comm_Guide/blob/master/Chapter%203:%20Voicing/Section%205:%20Standard%20Conventions.md) to continue to the next section on standard conventions, or click [here](https://github.com/taddieken95/Accuray_Tech_Comm_Guide/blob/master/Chapter%203:%20Voicing/READme.md) to return to the chapter overview.
+> This concludes this section on phrases and terms to avoid in Accuray documentation. Click [here](https://github.com/taddieken95/Accuray_Tech_Comm_Guide/blob/master/Chapter%203:%20Voicing/Section%205:%20Standard%20Conventions.md) to continue to the next section on standard conventions, or click [here](https://github.com/taddieken95/Accuray_Tech_Comm_Guide/blob/master/Chapter%203:%20Voicing/READme.md) to return to the chapter overview.
