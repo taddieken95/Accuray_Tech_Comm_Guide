@@ -1,6 +1,6 @@
 # Manufacturing Department Document Requests
 
-> This section provides an overview of the means by which the Accuray Manufacturing technical writer receives requests for the creation / editing of a document.
+> This section provides an overview of the means by which the Accuray Manufacturing technical writer receives requests for the creation / editing of a document, along with how to configure an Agile PLM dashboard to receive requests.
 
 ## Configure Agile Interface
 
