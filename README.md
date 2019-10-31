@@ -12,4 +12,6 @@ A comprehensive guide to technical documentation at *Accuray Incorporated*. Clic
 
 > If viewing this TOC in partial page mode, click [here](https://github.com/taddieken95/Accuray_Tech_Comm_Guide/blob/master/README.md) to view in full page mode.
 
+* **
+
 ![alt text](https://github.com/taddieken95/Accuray_Tech_Comm_Guide/blob/master/img/Accuray2017.png "Accuray Logo")
