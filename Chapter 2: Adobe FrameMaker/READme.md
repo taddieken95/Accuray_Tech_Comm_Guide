@@ -1,3 +1,7 @@
+![alt text](https://github.com/taddieken95/Accuray_Tech_Comm_Guide/blob/master/img/Accuray2017.png "Accuray Logo")
+
+* **
+
 # Chapter 2: Adobe FrameMaker
 
 > This chapter provides further information regarding FrameMaker, along with guides on how Accuray uses it for its Manufacturing work instructions. Click [here](https://github.com/taddieken95/Accuray_Tech_Comm_Guide/blob/master/Chapter%202:%20Adobe%20FrameMaker/Section%201:%20FrameMaker%20Overview.md) to start from the beginning of this chapter, or click on one of the sections below to jump to specific topics.
