@@ -22,7 +22,7 @@ For the specifications, you should go to the **Attachments** tab inside the ECR.
 
 ## What if an SME doesn't create an ECR?
 
-An SME may choose to e-mail or physically hand you redlines, though an ECR will still need to be created, as they are required by Doc Services in order for the ECO to be approved. 
+An SME may choose to e-mail or physically hand you redlines. If this occurs, ensure an ECR is still created, as it is required for ECO approval.
 
 If the SME has not created an ECR, do one of the following:
 
