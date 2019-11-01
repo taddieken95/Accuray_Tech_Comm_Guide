@@ -36,7 +36,7 @@ The file name for the **Title Page** will be *(insert document number)_TitlePage
 
 ### Table of Contents
 
-The second of the three (3) files is the **Table of Contents**. The **Table of Contents** (also referred to as the **TOC**) is automatically linked to any primary headings throughout the document. See [this article] for information regarding generating / troubleshooting FrameMaker TOCs. A completed **Table of Contents** should contain the following attributes:
+The second of the three (3) files is the **Table of Contents**. The **Table of Contents** (also referred to as the **TOC**) is automatically linked to any primary headings throughout the document. See [this section](https://github.com/taddieken95/Accuray_Tech_Comm_Guide/blob/master/Chapter%204:%20Proofreading/Section%203:%20TOC.md) for information regarding generating / troubleshooting FrameMaker TOCs. A completed **Table of Contents** should contain the following attributes:
 
 * **Document Title**
 * **Work Instruction Number**
