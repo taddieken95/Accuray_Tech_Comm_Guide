@@ -4,7 +4,7 @@
 
 ## Structure of FrameMaker File
 
-Accuray's manufacturing work instructions are generated via FrameMaker books. A FrameMaker book is a collective body of individual FrameMaker files. The appeal to this, is the ability to separate sections / chapters of a publication into files that can be easily moved around to different locations within that publication. 
+Accuray's manufacturing work instructions are generated via FrameMaker books. A FrameMaker book is a collective body of individual FrameMaker files. The appeal to this is the ability to separate sections / chapters of a publication into files that can be easily moved around to different locations within that publication. 
 
 In the context of manufacturing work instructions, a standard FrameMaker book will contain three (3) files:
 
