@@ -19,7 +19,7 @@ As mentioned above, the first of the three (3) files is the Title Page. See the 
 | Feature       | Description                                 |
 |---------------|---------------------------------------------|
 |**Title**| The title of the work instruction. Displayed at the top-right corner of the title page|
-|**Document Number**|The specialized number for locating the document in Agile. See [this article] for information on how to assign a number.|
+|**Document Number**|The specialized number for locating the document in Agile.|
 |**Revision Table**|A brief outline of each prior revision, consisting of the **Revision Letter**, **Date of Release**, **Description of Change**, and the **Originator(s)**.|
 |**Revision Letter**|Labeled as **Rev** in the table, this informs the reader as to when a particular version was released. **Revision Letters** begin at A.|
 |**Date of Release**|The date the revision was released in Agile. The most recent revision should say *See Agile*, as the technical writer will not be able to predict which date it will be officially released in Agile.|
