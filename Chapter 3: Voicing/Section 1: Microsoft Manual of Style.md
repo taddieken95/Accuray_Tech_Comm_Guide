@@ -22,7 +22,7 @@ Perform the following in order to accomplish these voicing principles:
 
 ## Acronyms
 
-If you've spent any time at Accuray, you're probably well aware of the fact that we use a *lot* of acronyms (see [this section]() for a comprehensive guide to acronyms at Accuray). Follow the following guidelines when referencing acronyms in documentation:
+If you've spent any time at Accuray, you're probably well aware of the fact that we use a *lot* of acronyms (see [this section](https://github.com/taddieken95/Accuray_Tech_Comm_Guide/blob/master/Chapter%203:%20Voicing/Section%203:%20Accuray%20Terms.md) for a comprehensive guide to acronyms at Accuray). Follow the following guidelines when referencing acronyms in documentation:
 
 * **Spell out the term for clarity.** It is best practice to type out the meaning of an acronym before solely referencing an acronym in a document.
 
