@@ -18,7 +18,7 @@ To create a **cross-reference**, perform the following:
 > **NOTE:** If the **Cross-Reference** pod is not currently displayed, go to **View**, **Pods**, then click **Cross-References...** The **Cross-Reference** pod should appear.
 
 3. Select **Paragraph** from the **Source Type:** dropdown menu in the **Cross-Reference** pod.
-4. Select the appropriate attribute for the content you are trying to establish a **Cross-Reference** to (**FigureCaption**, **Heading 1**, **Steps**, etc).
+4. Select the appropriate attribute for the content you are trying to establish a **cross-reference** to (**FigureCaption**, **Heading 1**, **Steps**, etc).
 5. Ensure the proper format is selected from the **Format:** dropdown menu.
 
 > **NOTE:** The format is dependent on the attribute. It is advised to use the **FigureCaption** format for **FigureCaption** Paragraph Tabs, **Heading** for section heading Paragraph Tabs, etc.
