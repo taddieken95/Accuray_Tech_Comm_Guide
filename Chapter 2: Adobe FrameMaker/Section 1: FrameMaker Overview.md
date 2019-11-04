@@ -14,7 +14,7 @@ Additionally, while FrameMaker is more rigid than a word proccesor such as Word,
 
 There's a common phrase people use when describing FrameMaker vs. Word: 
 
-> *Word makes the easy things easy, and the hard things hard. Whereas FrameMaker makes the hard things easy and the easy things hard*. 
+> *Word makes the easy things easy, and the hard things hard. FrameMaker makes the hard things easy and the easy things hard*. 
 
 This, of course, is purely anecdotal. FrameMaker is not *hard*, per se, but rather the anecdote is drawing attention to the fact that there is a learning curve that comes with FrameMaker, whereas Word is generally perceived as intuitive. 
 
