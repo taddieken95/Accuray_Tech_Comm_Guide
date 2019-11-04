@@ -15,7 +15,7 @@ To create a **cross-reference**, perform the following:
 1. Place your cursor at the desired location for the **cross-reference** within the document.
 2. Go to the **cross-reference** pod in the floating side panel (the same side panel with the **Paragraph** and **Object Properties** pods).
 
-> **NOTE:** If the **cross-reference** pod is not currently displayed, go to **View**, **Pods**, then click **cross-references...** The **cross-reference** pod should appear.
+> **NOTE:** If the **cross-reference** pod is not currently displayed, go to **View**, **Pods**, then click **Cross-References...** The **Cross-Reference** pod should appear.
 
 3. Select **Paragraph** from the **Source Type:** dropdown menu in the **Cross-Reference** pod.
 4. Select the appropriate attribute for the content you are trying to establish a **Cross-Reference** to (**FigureCaption**, **Heading 1**, **Steps**, etc).
