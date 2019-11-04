@@ -1,6 +1,6 @@
 # Engineering Change Request Protocols for Documentation
 
-> This document outlines the purpose and functionality of document requests submitted via ECRs. These ECRs should be visible via the two (2) windows created in the [previous section](https://github.com/taddieken95/Accuray_Tech_Comm_Guide/blob/master/Chapter%201:%20Doc%20Requests/Section%201:%20Manufacturing%20Doc%20Requests.md) of this [chapter](https://github.com/taddieken95/Accuray_Tech_Comm_Guide/tree/master/Chapter%201:%20Doc%20Requests).
+> This section outlines the purpose and functionality of document requests submitted via ECRs. These ECRs should be visible via the two (2) windows created in the [previous section](https://github.com/taddieken95/Accuray_Tech_Comm_Guide/blob/master/Chapter%201:%20Doc%20Requests/Section%201:%20Manufacturing%20Doc%20Requests.md) of this [chapter](https://github.com/taddieken95/Accuray_Tech_Comm_Guide/tree/master/Chapter%201:%20Doc%20Requests).
 
 
 ## What are ECRs?
