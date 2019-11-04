@@ -15,9 +15,9 @@ To export a FrameMaker file to a PDF, do the following:
 
 ![alt text](https://github.com/taddieken95/Accuray_Tech_Comm_Guide/blob/master/img/PDF%20Setupt%20for%20Selected%20Files.png "PDF Setup for Selected Files Window")
 
-> **NOTE:** A **Confirm Security** window may appear that says, *Are you sure that this file is from a trustworthy source and you want to convert it?*. Click **Yes**.
+> **NOTE:** A **Confirm Security** dialog box may appear that says, *Are you sure that this file is from a trustworthy source and you want to convert it?*. Click **Yes**.
 
-5. Your PDF file should now be created and available for view inside an **Acrobat Distiller** window (this window should appear automatically). To view the file, double-click it. Ensure all needed attributes are present in your PDF (see [this article]() for more information regarding proofreading Accuray documents).
+5. Your PDF file should now be created and available for view inside an **Acrobat Distiller** window (this window should appear automatically). To view the file, double-click it. Ensure all needed attributes are present in your PDF (see [this chapter](https://github.com/taddieken95/Accuray_Tech_Comm_Guide/blob/master/Chapter%204:%20Proofreading/READme.md) for more information regarding proofreading Accuray documents).
 
 * **
 
