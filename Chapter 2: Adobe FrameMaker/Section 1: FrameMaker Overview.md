@@ -14,7 +14,11 @@ Additionally, while FrameMaker is more rigid than a word proccesor such as Word,
 
 A phrase used to describe FrameMaker vs. Word is: *Word makes the easy things easy, and the hard things hard. Whereas FrameMaker makes the hard things easy and the easy things hard*.  This, of course, is purely anecdotal. FrameMaker is not *hard*, per se, but rather the anecdote is drawing attention to the fact that there is a learning curve that comes with FrameMaker, whereas Word is generally perceived as intuitive. 
 
+* **
+
 > **ANOTHER ANECDOTE:** Think of it this way, one could probably build a bridge out of some wood they buy at a local lumber yard. They could use this wood, along with general knowledge of bridges, to construct something that looks like a bridge. This may be fine for people walking over it, but would one feel comfortable ***driving*** over it? Odds are, probably not. One would probably want some sort of steel / concrete bridge designed and built by professionals for this sort of functionality. This same notion is applicable to documentation generation. For low volume generation, Microsoft Word is quick and functional. *But for documents containing 50+ pages?* FrameMaker is the much stronger and less time consuming option.
+
+* **
 
 One last reason that FrameMaker is particularly strong is its ability to establish crossreferences. A **crossreference** is a piece of text that is connected to another piece of text / item inside of a document (such as a **Figure**, **Heading**, or **Step Number**). The advantage of using crossreferences is that they automatically update if elements of a document are moved around. This feature saves time and prevents potential headaches that may otherwise arise without crossreferences.
 
