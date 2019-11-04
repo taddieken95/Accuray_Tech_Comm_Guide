@@ -11,7 +11,7 @@ To export a FrameMaker file to a PDF, do the following:
 > **NOTE:** It **must** be the .book file that is selected. Failure to do so may cause FrameMaker to export only the current file to a PDF (i.e. - the Title Page file, TOC file, or Content File).
 2. Go to the **File** dropdown menu. Click **Save as PDF...**
 3. Ensure the Agile Work Instruction Number is the **File Name**. Click **Save**
-4. A **PDF Setup for Selected Files** window will appear. Click **Set**.
+4. A **PDF Setup for Selected Files** dialog box will appear. Click **Set**.
 
 ![alt text](https://github.com/taddieken95/Accuray_Tech_Comm_Guide/blob/master/img/PDF%20Setupt%20for%20Selected%20Files.png "PDF Setup for Selected Files Window")
 
