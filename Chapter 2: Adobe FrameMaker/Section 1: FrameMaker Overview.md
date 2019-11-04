@@ -12,7 +12,11 @@ There are a variety of different reasons that FrameMaker is the current word pro
 
 Additionally, while FrameMaker is more rigid than a word proccesor such as Word, that rigidity allows for a more structurely sound document (*think back to all the times you have moved an image in Word over a centimeter and it caused for the whole document to go haywire*).
 
-A phrase used to describe FrameMaker vs. Word is: *Word makes the easy things easy, and the hard things hard. Whereas FrameMaker makes the hard things easy and the easy things hard*.  This, of course, is purely anecdotal. FrameMaker is not *hard*, per se, but rather the anecdote is drawing attention to the fact that there is a learning curve that comes with FrameMaker, whereas Word is generally perceived as intuitive. 
+There's a common phrase people use when describing FrameMaker vs. Word: 
+
+*Word makes the easy things easy, and the hard things hard. Whereas FrameMaker makes the hard things easy and the easy things hard*. 
+
+This, of course, is purely anecdotal. FrameMaker is not *hard*, per se, but rather the anecdote is drawing attention to the fact that there is a learning curve that comes with FrameMaker, whereas Word is generally perceived as intuitive. 
 
 * **
 
