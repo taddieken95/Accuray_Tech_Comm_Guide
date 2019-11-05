@@ -1,6 +1,6 @@
 # Corporate Style Guidelines
 
-> This style guide establishes the standards through which Accuray employees should follow when producing Accuray documentation. This style guide should be followed with particular accuracy when creating customer-facing documentation (such as a user manual) or any other documentation that is not solely for internal use (such as legal documentation).
+> This style guide establishes the standards an Accuray employee should follow when producing Accuray documentation. This style guide should be followed keenly when developing customer-facing documentation (such as a user manual) or any other documentation that is not solely for internal use (such as legal documentation).
 
 ## Accuray Style Guideline Overview
 
