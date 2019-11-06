@@ -23,7 +23,7 @@
 |**left-hand**|Do not use. *Hand* is superfluous; delete it. Just use *left*.|
 |**log on, log off, logon, logoff**|***See subsection below.***|
 |**numbers**|***See subsection below.***|
-|**OK**|*Ok* is preferred to *okay* for brevity. However, *acceptable*, *within range*, or any number of other terms are probably clearer and more effective.|
+|**OK**|*OK* is preferred to *okay* for brevity. However, *acceptable*, *within range*, or any number of other terms are probably clearer and more effective.|
 |**open**|Not *open up*.
 |**orient vs. orientate**|While both are correct, *orient* is shorter and preferred.|
 |**pane**|Use *pane* to refer to a separate area of a single window.|
