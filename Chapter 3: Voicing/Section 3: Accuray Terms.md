@@ -83,7 +83,7 @@
 
 * **ECO**: *Engineering Change Order*, the means through which a change is implemented in Agile (see [this chapter](https://github.com/taddieken95/Accuray_Tech_Comm_Guide/blob/master/Chapter%205:%20ECOs/READme.md) for information regarding ECOs).
 
-* **ECR**: *Engineering Change Request*, the means through which a change is requested in Agile (see [this section](https://github.com/taddieken95/Accuray_Tech_Comm_Guide/blob/master/Chapter%201:%20Doc%20Requests/Section%202:%20ECRs.md) for information regarding ECRs.
+* **ECR**: *Engineering Change Request*, the means through which a change is requested in Agile (see [this section](https://github.com/taddieken95/Accuray_Tech_Comm_Guide/blob/master/Chapter%201:%20Doc%20Requests/Section%202:%20ECRs.md) for information regarding ECRs).
 
 * **OBF**: *Out of Box Failure*, a part / assembly that fails when first installed / used.
 
