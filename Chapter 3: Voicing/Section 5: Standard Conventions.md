@@ -79,9 +79,9 @@ If multiple keys must be pressed simultaneously, use the + symbol between each k
 
 ### Contractions and the Grocer's Apostrophe
 
-Per the *Microsoft Manual of Style*: "Avoid contractions. As basic as contractions are to the native reader, they add unnecessary complexity for the non-native reader. For example, contractions that end in 's can be mistaken for possessive nouns, and the 's can be read as either has or is."
+Per the Microsoft Manual of Style: *Avoid contractions. As basic as contractions are to the native reader, they add unnecessary complexity for the non-native reader. For example, contractions that end in 's can be mistaken for possessive nouns, and the 's can be read as either has or is.*
 
-Often, 's is mistakenly used to indicate a plural. This is known as the **grocer's apostrophe**, due to its prevalence on grocery store marquees.
+Often, *'s* is mistakenly used to indicate a plural. This is known as the **grocer's apostrophe**, due to its prevalence on grocery store marquees.
 
 A good rule of thumb is to double-check a document for any apostrophes. Since contractions are not used in Accuray documentation, there is a good chance that an 's is being used mistakenly.
 
