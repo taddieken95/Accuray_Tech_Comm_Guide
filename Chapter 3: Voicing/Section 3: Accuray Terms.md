@@ -21,7 +21,7 @@
 
 * **Imaging Procedure:** The steps required to operate the delivery subsystem when acquiring TomoImage sets.
 
-* **Importance:** The weighting that the optimization algorithm gives to all parameters associated with a given structure in relation to all other structures included in the plan.
+* **Importance:** The weight that the optimization algorithm gives to all parameters associated with a given structure in relation to all other structures included in the plan.
 
 * **Isodose Lines:** Lines drawn over an image that indicated closed contours of constant dose.
 
